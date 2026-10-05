@@ -1,0 +1,3002 @@
+[
+ {
+  "id": 1,
+  "domain": "safety_and_health_of_welders",
+  "front": "What is ANSI Z49.1?",
+  "back": "The title is Safety in Welding, Cutting, and Allied Processes. ANSI is the American National Standards Institute, and the American Welding Society publishes it. Many shops and schools use it as a baseline safety rulebook."
+ },
+ {
+  "id": 2,
+  "domain": "safety_and_health_of_welders",
+  "front": "What does OSHA stand for and what does it do?",
+  "back": "OSHA is the Occupational Safety and Health Administration. It is the US agency that sets workplace safety rules. If your school or employer is stricter, follow the stricter rule."
+ },
+ {
+  "id": 3,
+  "domain": "safety_and_health_of_welders",
+  "front": "What score is expected on the Level 1 SENSE safety exam?",
+  "back": "Most module exams need 75 percent, but the Level 1 safety exam needs a perfect 100 percent. Check your program's rules, including how retakes work. One missed safety fact can mean a burn, a shock or a fire."
+ },
+ {
+  "id": 4,
+  "domain": "safety_and_health_of_welders",
+  "front": "Which three kinds of light does a welding arc give off?",
+  "back": "An arc gives off ultraviolet (UV), visible and infrared (IR) light. UV burns skin and eyes without being seen. Infrared is felt as heat and can damage the eye over time."
+ },
+ {
+  "id": 5,
+  "domain": "safety_and_health_of_welders",
+  "front": "What is arc flash (welder's flash)?",
+  "back": "It is a sunburn of the cornea, the clear front of the eye, and its medical name is photokeratitis. Symptoms usually begin several hours after exposure. The eyes feel gritty, water and become very sensitive to light."
+ },
+ {
+  "id": 6,
+  "domain": "safety_and_health_of_welders",
+  "front": "What is a shade number on a welding lens?",
+  "back": "It rates how dark the filter lens is. A higher number means a darker lens. It is a safety rating chosen by process and current, not a comfort setting."
+ },
+ {
+  "id": 7,
+  "domain": "safety_and_health_of_welders",
+  "front": "What shade range is typical for stick (SMAW) welding?",
+  "back": "Often shade 10 to 14, depending on electrode size and current. Always check the current Z49.1 table and your employer's policy."
+ },
+ {
+  "id": 8,
+  "domain": "safety_and_health_of_welders",
+  "front": "What shade range is typical for GMAW and FCAW (MIG and flux-cored)?",
+  "back": "Often shade 10 to 14, depending on current. Higher amperage calls for a darker shade."
+ },
+ {
+  "id": 9,
+  "domain": "safety_and_health_of_welders",
+  "front": "What shade range is typical for GTAW (TIG)?",
+  "back": "About shade 8 to 14, getting darker as amperage rises. Low-current TIG can use a lighter lens than stick welding."
+ },
+ {
+  "id": 10,
+  "domain": "safety_and_health_of_welders",
+  "front": "What shade range is typical for light oxyfuel welding?",
+  "back": "About shade 4 to 6. Torch brazing is lighter still, about shade 3 or 4. Plasma arc cutting is roughly shade 9 to 12 depending on current."
+ },
+ {
+  "id": 11,
+  "domain": "safety_and_health_of_welders",
+  "front": "Why must safety glasses be worn under the welding helmet?",
+  "back": "When the helmet is flipped up to chip slag or grind, flying particles can reach the eyes. Slag is the hard crust over a weld and hot chips can fly in any direction. Grinding also needs a full face shield over the glasses."
+ },
+ {
+  "id": 12,
+  "domain": "safety_and_health_of_welders",
+  "front": "What is the advantage and limit of an auto-darkening lens?",
+  "back": "It is light until the arc starts and then darkens in a tiny fraction of a second. It must still be rated for the process and set to the right shade. The helmet is lowered before the arc starts."
+ },
+ {
+  "id": 13,
+  "domain": "safety_and_health_of_welders",
+  "front": "Why are synthetic fabrics such as nylon and polyester banned in the weld shop?",
+  "back": "They melt when hit by sparks or spatter. Melted fabric sticks to skin and makes burns much worse. Flame-resistant cotton, wool and leather are the common choices."
+ },
+ {
+  "id": 14,
+  "domain": "safety_and_health_of_welders",
+  "front": "Why should welding pants have no cuffs?",
+  "back": "A cuff catches a hot spark like a pocket does. Pants should also cover the tops of high-top leather boots. Pocket flaps should be closed or pockets buttoned."
+ },
+ {
+  "id": 15,
+  "domain": "safety_and_health_of_welders",
+  "front": "What extra protection is worn for overhead welding?",
+  "back": "A cap, a leather cape or jacket and ear protection. A hot piece of metal can fall into the ear canal. Overhead work throws sparks onto the head and shoulders."
+ },
+ {
+  "id": 16,
+  "domain": "safety_and_health_of_welders",
+  "front": "Why must welding gloves be dry and in good condition?",
+  "back": "A wet or torn glove gives little protection from electric shock or heat. Gloves are made of leather. Replace worn ones."
+ },
+ {
+  "id": 17,
+  "domain": "safety_and_health_of_welders",
+  "front": "What is open circuit voltage?",
+  "back": "It is the voltage at the electrode when no arc is struck. For many stick machines it is commonly about 60 to 80 volts. That is lower than a wall outlet but can still be dangerous."
+ },
+ {
+  "id": 18,
+  "domain": "safety_and_health_of_welders",
+  "front": "What does Ohm's law say, and how does it explain shock danger?",
+  "back": "Current equals voltage divided by resistance, I = V ÷ R. Wet skin has much lower resistance than dry skin, so far more current flows. At 80 V, roughly 1,000 Ω gives 80 mA, while roughly 100,000 Ω gives 0.8 mA."
+ },
+ {
+  "id": 19,
+  "domain": "safety_and_health_of_welders",
+  "front": "About how much body current can make a person unable to let go?",
+  "back": "Around 10 to 20 milliamps can clamp the muscles. Currents around 100 milliamps and above can cause a deadly heart rhythm. These are general figures and wet conditions make them much worse."
+ },
+ {
+  "id": 20,
+  "domain": "safety_and_health_of_welders",
+  "front": "Where should the work lead (ground clamp) be attached?",
+  "back": "On the work or the table close to where you are welding. This keeps welding current from traveling through chains, cranes or building steel. Unplanned paths can cause shock and fire."
+ },
+ {
+  "id": 21,
+  "domain": "safety_and_health_of_welders",
+  "front": "What should a welder do about damaged cables or holders?",
+  "back": "Inspect cables, electrode holders and plugs before use and replace any with cracked or bare insulation. Only qualified people service welding machines. Shut off and unplug a machine before it is opened."
+ },
+ {
+  "id": 22,
+  "domain": "safety_and_health_of_welders",
+  "front": "What is the first rule for avoiding welding fume?",
+  "back": "Keep your head out of the fume plume, the rising column of smoke above the weld. A small shift of your head greatly reduces fume you breathe. Position the work so the plume rises away from your face."
+ },
+ {
+  "id": 23,
+  "domain": "safety_and_health_of_welders",
+  "front": "What is the difference between general and local exhaust ventilation?",
+  "back": "General ventilation moves air through the whole room with fans and open doors. Local exhaust captures fume at the source with a hood or extractor nozzle near the arc. Local exhaust is usually far more effective."
+ },
+ {
+  "id": 24,
+  "domain": "safety_and_health_of_welders",
+  "front": "Why should oxygen never be used to freshen the air?",
+  "back": "Oxygen makes fires burn violently. Fresh air is the correct ventilation gas. This rule also applies inside confined spaces."
+ },
+ {
+  "id": 25,
+  "domain": "safety_and_health_of_welders",
+  "front": "What hazard comes from welding galvanized steel?",
+  "back": "Burning zinc makes zinc oxide fume, which causes metal fume fever. It feels like the flu, with fever, chills, nausea and a metallic taste, usually hours after exposure. Grind off the coating from the weld area when you can and ventilate well."
+ },
+ {
+  "id": 26,
+  "domain": "safety_and_health_of_welders",
+  "front": "Why is welding stainless steel a fume hazard?",
+  "back": "It contains chromium, and welding can make hexavalent chromium, linked to serious lung harm and cancer. The exposure limit is very low. Use local exhaust and the correct respirator."
+ },
+ {
+  "id": 27,
+  "domain": "safety_and_health_of_welders",
+  "front": "Why is cadmium a concern in welding and brazing?",
+  "back": "Cadmium, found in old plating and some silver brazing alloys, is extremely toxic when heated. Stop work and ask for help if you suspect it. Lead in old paint and beryllium in some copper alloys are also very hazardous."
+ },
+ {
+  "id": 28,
+  "domain": "safety_and_health_of_welders",
+  "front": "Why must chlorinated solvents be kept away from welding?",
+  "back": "Arc light can break their vapors down into phosgene, a deadly gas. Never weld where vapors from degreasers or cleaners are present. Let cleaned parts dry fully."
+ },
+ {
+  "id": 29,
+  "domain": "safety_and_health_of_welders",
+  "front": "What is hot work?",
+  "back": "Any work that makes sparks, flame or heat, including welding, cutting, brazing and grinding. Many workplaces require a written hot work permit before it starts. The permit confirms inspection and fire protection."
+ },
+ {
+  "id": 30,
+  "domain": "safety_and_health_of_welders",
+  "front": "How far must combustibles be kept from hot work?",
+  "back": "At least 35 feet, about 11 meters. If they cannot be moved, cover them with approved fire-resistant covers or shield them with welding blankets and screens."
+ },
+ {
+  "id": 31,
+  "domain": "safety_and_health_of_welders",
+  "front": "What is the job of a fire watch?",
+  "back": "A fire watch is a person whose only job is to watch for fires. The watch stays during the work and for at least 30 minutes after it ends. Some employers or permits require longer, so check."
+ },
+ {
+  "id": 32,
+  "domain": "safety_and_health_of_welders",
+  "front": "Welding stops at 2:15 PM. Until when must the fire watch stay at minimum?",
+  "back": "Until at least 2:45 PM, because the minimum is 30 minutes after the work ends. A longer time may be required by the permit or employer. Smoldering material can ignite after the sparks stop."
+ },
+ {
+  "id": 33,
+  "domain": "safety_and_health_of_welders",
+  "front": "Why must a drum that held fuel never be welded until it is made safe?",
+  "back": "It must first be properly cleaned, tested and made safe. Leftover flammable vapor can explode, and even an empty drum is dangerous. Never assume a container is empty."
+ },
+ {
+  "id": 34,
+  "domain": "safety_and_health_of_welders",
+  "front": "What does PASS stand for with a fire extinguisher?",
+  "back": "Pull the pin, Aim at the base of the fire, Squeeze the handle, Sweep side to side. Use an extinguisher only on a small fire that is safe to fight. If it grows, leave and raise the alarm."
+ },
+ {
+  "id": 35,
+  "domain": "safety_and_health_of_welders",
+  "front": "How must compressed gas cylinders be secured?",
+  "back": "Upright, with a chain or strap, whether in use, in storage or in transport. Keep the valve protection cap on when not in use and when moving. A full cylinder holds roughly 2,200 psi, so a broken valve is a serious danger."
+ },
+ {
+  "id": 36,
+  "domain": "safety_and_health_of_welders",
+  "front": "What should you do before attaching a regulator to a cylinder?",
+  "back": "Stand to the side of the valve outlet and crack the valve, which means open it briefly, to blow out dirt, then close it. Open the valve slowly afterward. Never stand in front of the outlet."
+ },
+ {
+  "id": 37,
+  "domain": "safety_and_health_of_welders",
+  "front": "How far open should oxygen and acetylene cylinder valves be?",
+  "back": "Open an oxygen valve fully so the back seal is set, as the supplier directs. Open an acetylene valve only about one and a half turns and leave the wrench on the valve. That allows a fast shutoff."
+ },
+ {
+  "id": 38,
+  "domain": "safety_and_health_of_welders",
+  "front": "What is the maximum safe acetylene working pressure?",
+  "back": "15 psi gauge. Above that, acetylene becomes unstable. Also keep acetylene cylinders upright."
+ },
+ {
+  "id": 39,
+  "domain": "safety_and_health_of_welders",
+  "front": "How must oxygen cylinders be stored relative to fuel gas?",
+  "back": "At least 20 feet away from fuel gas cylinders, or separated by a noncombustible barrier at least 5 feet high with a fire rating of at least one half hour. Never use oil or grease on oxygen equipment, since oil and pure oxygen can ignite on contact."
+ },
+ {
+  "id": 40,
+  "domain": "safety_and_health_of_welders",
+  "front": "What is the safe oxygen range for working in a confined space?",
+  "back": "About 19.5 to 23.5 percent, with normal air near 20.9 percent. Below 19.5 percent is oxygen-deficient. Above 23.5 percent is oxygen-enriched and fires burn much faster."
+ },
+ {
+  "id": 41,
+  "domain": "safety_and_health_of_welders",
+  "front": "Why are argon and carbon dioxide dangerous in a pit or tank?",
+  "back": "They are heavier than air, settle low and displace oxygen. In a 10 ft × 10 ft × 8 ft room (800 ft³), 100 ft³ of argon leaking in could drop oxygen to about 18.3 percent. That is below the safe 19.5 percent minimum."
+ },
+ {
+  "id": 42,
+  "domain": "safety_and_health_of_welders",
+  "front": "What are the main dangers of a confined space?",
+  "back": "Bad air, fire and explosion, and difficulty of rescue. A permit-required confined space needs a written entry permit. Test the air before entry and keep monitoring while working."
+ },
+ {
+  "id": 43,
+  "domain": "safety_and_health_of_welders",
+  "front": "What are the OSHA noise action level and permissible exposure limit?",
+  "back": "The action level is 85 dBA averaged over 8 hours, and the permissible limit is 90 dBA for an 8-hour day. Every 5 dB above 90 halves the allowed time. At 100 dBA the limit is 2 hours."
+ },
+ {
+  "id": 44,
+  "domain": "safety_and_health_of_welders",
+  "front": "How long is exposure allowed at 95 dBA?",
+  "back": "4 hours. The formula is time = 8 ÷ 2^((L − 90) ÷ 5), so 8 ÷ 2^1 = 4. Each extra 5 dB halves the time again."
+ },
+ {
+  "id": 45,
+  "domain": "safety_and_health_of_welders",
+  "front": "What are good ergonomic habits for welders?",
+  "back": "Set the work at a comfortable height, change positions often, keep wrists straight and lift with the legs. Use a cart or crane for heavy items. Support heavy cables on a hook so they do not drag your arm."
+ },
+ {
+  "id": 46,
+  "domain": "safety_and_health_of_welders",
+  "front": "What are the three main tools of OSHA's Hazard Communication Standard?",
+  "back": "Container labels, Safety Data Sheets (SDS) and worker training. The standard follows GHS, the Globally Harmonized System. Workers have a right to know about the chemicals they use."
+ },
+ {
+  "id": 47,
+  "domain": "safety_and_health_of_welders",
+  "front": "What does a hazard label show, and what are the two signal words?",
+  "back": "A product name, a signal word, pictograms and hazard statements. The signal word is Danger for more severe hazards and Warning for less severe ones. A pictogram is a red-bordered diamond with a symbol such as a flame."
+ },
+ {
+  "id": 48,
+  "domain": "safety_and_health_of_welders",
+  "front": "What is a Safety Data Sheet?",
+  "back": "A document with 16 sections that covers hazards, first aid, fire fighting, handling and storage, exposure limits and protective equipment. Welding products such as electrodes and fluxes have one. It must be available to workers during their shift."
+ },
+ {
+  "id": 49,
+  "domain": "safety_and_health_of_welders",
+  "front": "What are the steps of lockout and tagout under 29 CFR 1910.147?",
+  "back": "Notify affected workers, shut the machine down, isolate every energy source, apply your own lock and tag, release stored energy, then verify by trying to start it. Each worker uses a personal lock that only that worker removes. A lock is stronger than a tag alone."
+ },
+ {
+  "id": 50,
+  "domain": "safety_and_health_of_welders",
+  "front": "What is the first step when someone is being shocked by a live source?",
+  "back": "Do not touch the person while they may still be in contact. Turn off the power first, or move them with a dry, non-conductive object. Then call for emergency help and begin CPR if trained and needed."
+ },
+ {
+  "id": 51,
+  "domain": "drawings_and_welding_symbols",
+  "front": "What is a print or drawing for a welder?",
+  "back": "It is a set of instructions in a shared picture language. It tells you what to make, how big, which joints to weld and how each weld should look."
+ },
+ {
+  "id": 52,
+  "domain": "drawings_and_welding_symbols",
+  "front": "What kind of projection do US drawings use?",
+  "back": "US drawings use third angle projection. The top view sits above the front view and the right side view sits to the right of it."
+ },
+ {
+  "id": 53,
+  "domain": "drawings_and_welding_symbols",
+  "front": "Where is the top view placed on a US print?",
+  "back": "The top view is placed directly above the front view. This lets features line up from one view to the next."
+ },
+ {
+  "id": 54,
+  "domain": "drawings_and_welding_symbols",
+  "front": "Where is the right side view placed on a US print?",
+  "back": "The right side view is placed to the right of the front view. It lines up with the front view across the sheet."
+ },
+ {
+  "id": 55,
+  "domain": "drawings_and_welding_symbols",
+  "front": "What does an auxiliary view show?",
+  "back": "It looks straight at a sloped face of the part. This shows that face in its true shape and size."
+ },
+ {
+  "id": 56,
+  "domain": "drawings_and_welding_symbols",
+  "front": "What does a section view show?",
+  "back": "It shows the part as if it were cut open. The cut surface is shaded with thin slanted section lines."
+ },
+ {
+  "id": 57,
+  "domain": "drawings_and_welding_symbols",
+  "front": "What does a cutting plane line show?",
+  "back": "It shows where a section view was cut. Arrows on its ends show the direction you look."
+ },
+ {
+  "id": 58,
+  "domain": "drawings_and_welding_symbols",
+  "front": "What is an object line?",
+  "back": "An object line is a thick, solid line. It shows the visible edges and outline of the part."
+ },
+ {
+  "id": 59,
+  "domain": "drawings_and_welding_symbols",
+  "front": "What is a hidden line?",
+  "back": "A hidden line is a medium line made of short dashes. It shows edges behind a surface that cannot be seen from that view."
+ },
+ {
+  "id": 60,
+  "domain": "drawings_and_welding_symbols",
+  "front": "What is a center line?",
+  "back": "A center line is a thin line of long dash, short dash, long dash. It marks the center of holes, circles and round parts."
+ },
+ {
+  "id": 61,
+  "domain": "drawings_and_welding_symbols",
+  "front": "What is the job of a dimension line?",
+  "back": "A dimension line is a thin line with an arrowhead at each end. It carries the number that gives the distance."
+ },
+ {
+  "id": 62,
+  "domain": "drawings_and_welding_symbols",
+  "front": "What is an extension line?",
+  "back": "An extension line is a thin line that reaches out from the part. It lets the dimension line sit clear of the picture."
+ },
+ {
+  "id": 63,
+  "domain": "drawings_and_welding_symbols",
+  "front": "What is a leader line?",
+  "back": "A leader line is a thin line with an arrowhead that points from a note to a feature. The welding symbol sits on a leader that ends in an arrow."
+ },
+ {
+  "id": 64,
+  "domain": "drawings_and_welding_symbols",
+  "front": "What does a break line show?",
+  "back": "A break line is wavy or zigzag. It shows that a long part was shortened on the page to save room."
+ },
+ {
+  "id": 65,
+  "domain": "drawings_and_welding_symbols",
+  "front": "What is the title block?",
+  "back": "It is the box in a corner of the sheet. It holds the part name, drawing number, scale, material, date and general tolerances."
+ },
+ {
+  "id": 66,
+  "domain": "drawings_and_welding_symbols",
+  "front": "Should you measure a print with a ruler to find a size?",
+  "back": "No. The print may have been copied or shrunk, so read the printed dimension. If two numbers disagree, ask before cutting metal."
+ },
+ {
+  "id": 67,
+  "domain": "drawings_and_welding_symbols",
+  "front": "What is a tolerance?",
+  "back": "A tolerance is the total amount a size is allowed to vary. It tells you how much error is acceptable."
+ },
+ {
+  "id": 68,
+  "domain": "drawings_and_welding_symbols",
+  "front": "What is a bilateral tolerance?",
+  "back": "The size may vary both above and below the given number, such as 4.000 ± 0.010. That part is good from 3.990 to 4.010."
+ },
+ {
+  "id": 69,
+  "domain": "drawings_and_welding_symbols",
+  "front": "What is a unilateral tolerance?",
+  "back": "The size may vary in only one direction, such as 4.000 plus 0.020 and minus 0.000. That part is good from 4.000 to 4.020."
+ },
+ {
+  "id": 70,
+  "domain": "drawings_and_welding_symbols",
+  "front": "What are limit dimensions?",
+  "back": "The print gives the smallest and largest allowed sizes directly, such as 3.990 and 4.010. Any size between them is good."
+ },
+ {
+  "id": 71,
+  "domain": "drawings_and_welding_symbols",
+  "front": "What tolerance applies when none is written beside a dimension?",
+  "back": "The general tolerance in the title block applies. It often depends on the number of decimal places in the dimension."
+ },
+ {
+  "id": 72,
+  "domain": "drawings_and_welding_symbols",
+  "front": "What does scale mean on a drawing?",
+  "back": "Scale is the ratio of drawing size to real size. A scale of 1:1 is full size and 1:2 is half size."
+ },
+ {
+  "id": 73,
+  "domain": "drawings_and_welding_symbols",
+  "front": "A line measures 3 inches on a drawing at 1:4 scale. What is the real length?",
+  "back": "Real length is 3 × 4 = 12 inches. At 1:4 the real part is four times the drawn size."
+ },
+ {
+  "id": 74,
+  "domain": "drawings_and_welding_symbols",
+  "front": "What does a 2:1 scale mean?",
+  "back": "The drawing is twice the real size. It is used for small parts."
+ },
+ {
+  "id": 75,
+  "domain": "drawings_and_welding_symbols",
+  "front": "What is a bill of materials?",
+  "back": "A bill of materials is a list of every piece in an assembly. It gives item number, quantity, description, size and material."
+ },
+ {
+  "id": 76,
+  "domain": "drawings_and_welding_symbols",
+  "front": "What does the item number in a bill of materials connect to?",
+  "back": "It matches a circled number or balloon on the drawing. That balloon points to the piece on the print."
+ },
+ {
+  "id": 77,
+  "domain": "drawings_and_welding_symbols",
+  "front": "What are the five basic joint types?",
+  "back": "The five are butt, corner, tee, lap and edge. A joint is where pieces meet, and a weld is what goes in it."
+ },
+ {
+  "id": 78,
+  "domain": "drawings_and_welding_symbols",
+  "front": "What is a tee joint?",
+  "back": "One piece stands at about a right angle against the face of another piece. The two pieces form a T."
+ },
+ {
+  "id": 79,
+  "domain": "drawings_and_welding_symbols",
+  "front": "What is a lap joint?",
+  "back": "Two pieces overlap each other in parallel planes. The weld is made along the overlapping edges."
+ },
+ {
+  "id": 80,
+  "domain": "drawings_and_welding_symbols",
+  "front": "What is the root of a weld?",
+  "back": "The root is the point where the back of the weld meets the base metal surfaces. In a fillet weld it is the deepest point."
+ },
+ {
+  "id": 81,
+  "domain": "drawings_and_welding_symbols",
+  "front": "What is the toe of a weld?",
+  "back": "The toe is where the weld face meets the base metal. A fillet weld has two toes."
+ },
+ {
+  "id": 82,
+  "domain": "drawings_and_welding_symbols",
+  "front": "What is the leg of a fillet weld?",
+  "back": "The leg is the distance from the root to the toe, measured along the base metal. A fillet weld has two legs."
+ },
+ {
+  "id": 83,
+  "domain": "drawings_and_welding_symbols",
+  "front": "What is the throat of a fillet weld?",
+  "back": "The throat is the shortest distance from the root through the weld to its face. For an equal leg flat fillet it is about 0.707 times the leg size."
+ },
+ {
+  "id": 84,
+  "domain": "drawings_and_welding_symbols",
+  "front": "What is the effective throat of a 1/4 inch equal leg fillet?",
+  "back": "About 0.250 × 0.707 = 0.177 inch. The effective throat is about 0.707 times the leg size."
+ },
+ {
+  "id": 85,
+  "domain": "drawings_and_welding_symbols",
+  "front": "What is the bevel angle?",
+  "back": "The bevel angle is the angle between the bevel face and a line square to the surface. It measures the cut on one piece."
+ },
+ {
+  "id": 86,
+  "domain": "drawings_and_welding_symbols",
+  "front": "What is the groove angle?",
+  "back": "The groove angle, or included angle, is the total angle between the groove faces of both pieces. In a symmetrical V it is two times the bevel angle."
+ },
+ {
+  "id": 87,
+  "domain": "drawings_and_welding_symbols",
+  "front": "Both plates in a V groove are beveled 30°. What is the groove angle?",
+  "back": "The groove angle is 30° + 30° = 60°. It is the total included angle."
+ },
+ {
+  "id": 88,
+  "domain": "drawings_and_welding_symbols",
+  "front": "What is the root face?",
+  "back": "The root face, or land, is the flat unbeveled part of the groove face at the root. It helps stop burn through."
+ },
+ {
+  "id": 89,
+  "domain": "drawings_and_welding_symbols",
+  "front": "What is the root opening?",
+  "back": "The root opening is the gap between the pieces at the root of the joint. A larger gap helps penetration but needs more filler metal."
+ },
+ {
+  "id": 90,
+  "domain": "drawings_and_welding_symbols",
+  "front": "In a welding symbol, what is the reference line?",
+  "back": "The reference line is the horizontal line. All other symbol parts are placed around it in set positions."
+ },
+ {
+  "id": 91,
+  "domain": "drawings_and_welding_symbols",
+  "front": "What does the arrow of a welding symbol touch?",
+  "back": "It touches the joint to be welded. The side it touches is the arrow side and the opposite side is the other side."
+ },
+ {
+  "id": 92,
+  "domain": "drawings_and_welding_symbols",
+  "front": "Where does a weld symbol go to show a weld on the arrow side?",
+  "back": "It goes below the reference line. A symbol above the line means the other side."
+ },
+ {
+  "id": 93,
+  "domain": "drawings_and_welding_symbols",
+  "front": "What does the tail of a welding symbol hold?",
+  "back": "The tail is a fork at the end of the reference line. It holds notes such as the process, specification or WPS number, and is left off if not needed."
+ },
+ {
+  "id": 94,
+  "domain": "drawings_and_welding_symbols",
+  "front": "Where is the size of a fillet weld written on the symbol?",
+  "back": "The size is written to the left of the fillet symbol. The vertical side of the triangle is also always on the left."
+ },
+ {
+  "id": 95,
+  "domain": "drawings_and_welding_symbols",
+  "front": "What does a fillet symbol with no length mean?",
+  "back": "The weld runs the full length of the joint. It stops at a sudden change in the joint direction or at the end."
+ },
+ {
+  "id": 96,
+  "domain": "drawings_and_welding_symbols",
+  "front": "What do the numbers 3-10 to the right of a fillet symbol mean?",
+  "back": "Each weld is 3 inches long, and the welds are 10 inches apart center to center. The first number is length and the second is pitch."
+ },
+ {
+  "id": 97,
+  "domain": "drawings_and_welding_symbols",
+  "front": "What does a circle at the arrow and reference line junction mean?",
+  "back": "It is the weld all around symbol. The weld goes completely around the joint, such as around a pipe or tube."
+ },
+ {
+  "id": 98,
+  "domain": "drawings_and_welding_symbols",
+  "front": "What does a flag at the arrow and reference line junction mean?",
+  "back": "It is the field weld symbol, meaning the weld is made at the job site rather than in the shop. The flag points toward the tail."
+ },
+ {
+  "id": 99,
+  "domain": "drawings_and_welding_symbols",
+  "front": "How do the backing and melt through symbols differ?",
+  "back": "Both are half circles on the side opposite the groove weld symbol. An open half circle means backing, and a filled half circle means melt through."
+ },
+ {
+  "id": 100,
+  "domain": "drawings_and_welding_symbols",
+  "front": "What do the letters G, M and C beside a contour line mean?",
+  "back": "They name the finish method: G is grinding, M is machining and C is chipping. The contour line itself shows flush, convex or concave."
+ },
+ {
+  "id": 101,
+  "domain": "level_1_arc_welding_processes",
+  "front": "What does SMAW stand for, and what is it commonly called?",
+  "back": "Shielded metal arc welding. It is commonly called stick welding because it uses a flux-covered metal rod as the electrode."
+ },
+ {
+  "id": 102,
+  "domain": "level_1_arc_welding_processes",
+  "front": "What does GMAW stand for, and what is it commonly called?",
+  "back": "Gas metal arc welding. It is commonly called MIG and feeds a continuous solid wire while shielding gas flows around the arc."
+ },
+ {
+  "id": 103,
+  "domain": "level_1_arc_welding_processes",
+  "front": "What does GTAW stand for, and what is it commonly called?",
+  "back": "Gas tungsten arc welding. It is commonly called TIG and uses a non-consumable tungsten electrode."
+ },
+ {
+  "id": 104,
+  "domain": "level_1_arc_welding_processes",
+  "front": "Why must molten weld metal be shielded from the air?",
+  "back": "Oxygen and nitrogen in the air dissolve into molten steel. They cause gas pockets and brittle metal in the weld."
+ },
+ {
+  "id": 105,
+  "domain": "level_1_arc_welding_processes",
+  "front": "What is a constant current (CC) power source?",
+  "back": "A machine that holds amperage nearly steady even when arc length changes a little. It is also called a drooping characteristic machine and is used for SMAW and GTAW."
+ },
+ {
+  "id": 106,
+  "domain": "level_1_arc_welding_processes",
+  "front": "What is a constant voltage (CV) power source?",
+  "back": "A machine that holds voltage nearly steady and lets current change. It is also called a flat characteristic machine and is used for GMAW and FCAW."
+ },
+ {
+  "id": 107,
+  "domain": "level_1_arc_welding_processes",
+  "front": "What is open circuit voltage (OCV)?",
+  "back": "The voltage across the machine terminals when no arc is burning. For stick machines it is commonly 60 to 80 volts."
+ },
+ {
+  "id": 108,
+  "domain": "level_1_arc_welding_processes",
+  "front": "What is duty cycle?",
+  "back": "The part of a ten-minute period that a machine can weld at its rated output without overheating. A machine rated 300 amps at 60 percent can weld 6 minutes out of every 10."
+ },
+ {
+  "id": 109,
+  "domain": "level_1_arc_welding_processes",
+  "front": "What is DCEP?",
+  "back": "Direct current electrode positive, also called reverse polarity (DCRP). The electrode lead is on the positive terminal and penetration is deep."
+ },
+ {
+  "id": 110,
+  "domain": "level_1_arc_welding_processes",
+  "front": "What is DCEN?",
+  "back": "Direct current electrode negative, also called straight polarity (DCSP). The electrode lead is on the negative terminal, the electrode melts faster and penetration is shallower."
+ },
+ {
+  "id": 111,
+  "domain": "level_1_arc_welding_processes",
+  "front": "How does AC share heat between electrode and work?",
+  "back": "About evenly, giving medium penetration. AC reverses direction 120 times each second on a 60 hertz supply."
+ },
+ {
+  "id": 112,
+  "domain": "level_1_arc_welding_processes",
+  "front": "What is arc blow?",
+  "back": "The sideways push of an arc caused by magnetic fields. Moving the ground clamp, changing weld direction or using AC can reduce it."
+ },
+ {
+  "id": 113,
+  "domain": "level_1_arc_welding_processes",
+  "front": "What are the three jobs of an SMAW electrode coating?",
+  "back": "It makes a shielding gas around the pool, forms a slag layer over the cooling weld, and adds alloying elements and arc stabilizers."
+ },
+ {
+  "id": 114,
+  "domain": "level_1_arc_welding_processes",
+  "front": "What is slag, and why is it removed?",
+  "back": "A layer formed by the burned flux coating that protects the cooling weld. It is chipped off between passes because slag left behind causes slag inclusions."
+ },
+ {
+  "id": 115,
+  "domain": "level_1_arc_welding_processes",
+  "front": "What is the work clamp for?",
+  "back": "It connects the workpiece or table to the machine so the welding circuit is complete. It is also called the ground clamp."
+ },
+ {
+  "id": 116,
+  "domain": "level_1_arc_welding_processes",
+  "front": "In E7018, what does the E mean?",
+  "back": "Electrode. It is the first letter of every AWS stick electrode classification."
+ },
+ {
+  "id": 117,
+  "domain": "level_1_arc_welding_processes",
+  "front": "In E7018, what do the first two digits mean?",
+  "back": "Minimum tensile strength in thousands of pounds per square inch. 70 means 70,000 psi."
+ },
+ {
+  "id": 118,
+  "domain": "level_1_arc_welding_processes",
+  "front": "In E7018, what does the third digit 1 mean?",
+  "back": "The electrode can be used in all positions: flat, horizontal, vertical and overhead."
+ },
+ {
+  "id": 119,
+  "domain": "level_1_arc_welding_processes",
+  "front": "What is the fourth digit in a stick electrode number?",
+  "back": "It is read with the third digit and tells the coating type and the current the rod runs on."
+ },
+ {
+  "id": 120,
+  "domain": "level_1_arc_welding_processes",
+  "front": "What kind of coating does E6010 have?",
+  "back": "A cellulosic coating. It gives a forceful, fast-freezing arc with deep penetration and thin slag."
+ },
+ {
+  "id": 121,
+  "domain": "level_1_arc_welding_processes",
+  "front": "What is E6010 classically used for?",
+  "back": "The root pass on pipe. It digs deep and can weld through light rust and paint."
+ },
+ {
+  "id": 122,
+  "domain": "level_1_arc_welding_processes",
+  "front": "What is E6013 known for?",
+  "back": "A soft, easy arc with light penetration and heavy slag. It is common for sheet metal and general shop work."
+ },
+ {
+  "id": 123,
+  "domain": "level_1_arc_welding_processes",
+  "front": "What type of electrode is E7018?",
+  "back": "A low-hydrogen, iron powder electrode. It makes smooth, crack-resistant welds with slag that peels easily."
+ },
+ {
+  "id": 124,
+  "domain": "level_1_arc_welding_processes",
+  "front": "Which currents does E7018 run on?",
+  "back": "DCEP or AC. Confirm polarity on the electrode package."
+ },
+ {
+  "id": 125,
+  "domain": "level_1_arc_welding_processes",
+  "front": "When is E7018 the standard choice?",
+  "back": "For structural steel and for thicker or restrained joints, because it is strong and crack resistant."
+ },
+ {
+  "id": 126,
+  "domain": "level_1_arc_welding_processes",
+  "front": "What is E7024 used for?",
+  "back": "High deposition welding in the flat position and horizontal fillets only. It has a heavy iron powder coating."
+ },
+ {
+  "id": 127,
+  "domain": "level_1_arc_welding_processes",
+  "front": "Why is hydrogen a problem in a weld?",
+  "back": "Hydrogen from moisture can dissolve in the weld and cause cracks that may appear hours or days after welding."
+ },
+ {
+  "id": 128,
+  "domain": "level_1_arc_welding_processes",
+  "front": "Why does E7018 come in a hermetically sealed container?",
+  "back": "Low-hydrogen coatings absorb moisture from humid air. The sealed container keeps the coating dry until opened."
+ },
+ {
+  "id": 129,
+  "domain": "level_1_arc_welding_processes",
+  "front": "What is a rod oven (holding oven) for?",
+  "back": "Storing opened low-hydrogen electrodes to keep them dry, commonly around 250°F to 300°F. The exact setting comes from the code, WPS and manufacturer."
+ },
+ {
+  "id": 130,
+  "domain": "level_1_arc_welding_processes",
+  "front": "What is a good general arc length in SMAW?",
+  "back": "About equal to the diameter of the core wire. For a 1/8 inch rod that is about 1/8 inch."
+ },
+ {
+  "id": 131,
+  "domain": "level_1_arc_welding_processes",
+  "front": "Why does E7018 need an especially short arc?",
+  "back": "A long arc lets air into the pool and causes porosity."
+ },
+ {
+  "id": 132,
+  "domain": "level_1_arc_welding_processes",
+  "front": "Roughly what amperage range is typical for 1/8 inch E7018?",
+  "back": "Often between 90 and 140 amps. The range printed on the box is the best guide."
+ },
+ {
+  "id": 133,
+  "domain": "level_1_arc_welding_processes",
+  "front": "What is travel angle?",
+  "back": "The tilt of the electrode in the direction of travel, usually 5° to 15° in stick welding."
+ },
+ {
+  "id": 134,
+  "domain": "level_1_arc_welding_processes",
+  "front": "What is work angle?",
+  "back": "The tilt of the electrode relative to the sides of the joint. It is about 90° on a flat butt weld and about 45° on a T-joint fillet."
+ },
+ {
+  "id": 135,
+  "domain": "level_1_arc_welding_processes",
+  "front": "What is the usual SMAW rod motion, drag or push?",
+  "back": "Drag, with the tip leading the pool. Pushing the rod tends to trap slag."
+ },
+ {
+  "id": 136,
+  "domain": "level_1_arc_welding_processes",
+  "front": "Why fill the crater at the end of a weld?",
+  "back": "An unfilled crater can crack. Pause briefly at the end to fill it."
+ },
+ {
+  "id": 137,
+  "domain": "level_1_arc_welding_processes",
+  "front": "What parts make up a GMAW setup?",
+  "back": "A CV power source, wire feeder with drive rolls, gun cable with a liner, contact tip, nozzle, and a gas cylinder with regulator and flowmeter."
+ },
+ {
+  "id": 138,
+  "domain": "level_1_arc_welding_processes",
+  "front": "What does the contact tip do?",
+  "back": "It passes welding current to the wire as the wire leaves the gun."
+ },
+ {
+  "id": 139,
+  "domain": "level_1_arc_welding_processes",
+  "front": "In ER70S-6, what does ER mean?",
+  "back": "The product can be used as either an electrode or a rod."
+ },
+ {
+  "id": 140,
+  "domain": "level_1_arc_welding_processes",
+  "front": "In ER70S-6, what does S mean?",
+  "back": "Solid wire. It is a solid electrode, not a flux cored one."
+ },
+ {
+  "id": 141,
+  "domain": "level_1_arc_welding_processes",
+  "front": "In ER70S-6, what does the 70 mean?",
+  "back": "A minimum tensile strength of 70 ksi, or 70,000 psi."
+ },
+ {
+  "id": 142,
+  "domain": "level_1_arc_welding_processes",
+  "front": "What does the 6 in ER70S-6 tell you?",
+  "back": "The chemical composition. The -6 wire has extra manganese and silicon, which are deoxidizers."
+ },
+ {
+  "id": 143,
+  "domain": "level_1_arc_welding_processes",
+  "front": "What is a deoxidizer in a welding wire?",
+  "back": "An element, such as manganese or silicon, that binds with oxygen so it does not cause gas pockets or weak metal."
+ },
+ {
+  "id": 144,
+  "domain": "level_1_arc_welding_processes",
+  "front": "What are the properties of 100 percent CO2 as a GMAW gas?",
+  "back": "It is the cheapest gas and gives deep penetration, but the arc is rougher and spatter is higher."
+ },
+ {
+  "id": 145,
+  "domain": "level_1_arc_welding_processes",
+  "front": "What is C25 shielding gas?",
+  "back": "A mixture of 75 percent argon and 25 percent CO2. It is very common for mild steel and balances arc quality, spatter and penetration."
+ },
+ {
+  "id": 146,
+  "domain": "level_1_arc_welding_processes",
+  "front": "What gas is needed for spray transfer?",
+  "back": "A mostly argon gas, commonly 90 percent argon or richer, such as 90/10 argon and CO2."
+ },
+ {
+  "id": 147,
+  "domain": "level_1_arc_welding_processes",
+  "front": "What is a typical GMAW shielding gas flow rate?",
+  "back": "About 20 to 35 cubic feet per hour (CFH). Check the procedure."
+ },
+ {
+  "id": 148,
+  "domain": "level_1_arc_welding_processes",
+  "front": "What can happen when GMAW gas flow is too high?",
+  "back": "Turbulence can pull air into the shield, and gas is wasted."
+ },
+ {
+  "id": 149,
+  "domain": "level_1_arc_welding_processes",
+  "front": "Why is GMAW poor outdoors?",
+  "back": "Wind blows the shielding gas away from the pool, so porosity results unless wind screens are used."
+ },
+ {
+  "id": 150,
+  "domain": "level_1_arc_welding_processes",
+  "front": "What is metal transfer?",
+  "back": "How melted wire crosses the arc to the weld pool."
+ },
+ {
+  "id": 151,
+  "domain": "level_1_arc_welding_processes",
+  "front": "What is short circuit transfer?",
+  "back": "The wire tip touches the pool, shorts out and a drop is pinched off, many times each second. It uses low voltage and current."
+ },
+ {
+  "id": 152,
+  "domain": "level_1_arc_welding_processes",
+  "front": "When is short circuit transfer used?",
+  "back": "On thin metal, in out-of-position welding and for root passes, because the pool stays small and cool."
+ },
+ {
+  "id": 153,
+  "domain": "level_1_arc_welding_processes",
+  "front": "What is the main defect risk of short circuit transfer?",
+  "back": "Cold lap, meaning lack of fusion with the base metal, because heat input is low."
+ },
+ {
+  "id": 154,
+  "domain": "level_1_arc_welding_processes",
+  "front": "What is globular transfer?",
+  "back": "Large drops, bigger than the wire diameter, fall across the arc irregularly. It spatters a lot and is used in the flat position only."
+ },
+ {
+  "id": 155,
+  "domain": "level_1_arc_welding_processes",
+  "front": "Which gas tends to cause globular transfer even at high settings?",
+  "back": "100 percent CO2."
+ },
+ {
+  "id": 156,
+  "domain": "level_1_arc_welding_processes",
+  "front": "What is spray transfer?",
+  "back": "A fine stream of tiny droplets crosses the arc with little spatter and deep penetration. It needs high voltage and current and a mostly argon gas."
+ },
+ {
+  "id": 157,
+  "domain": "level_1_arc_welding_processes",
+  "front": "What is pulsed spray transfer?",
+  "back": "Current switches between a high peak and a low background. It gives spray droplets with less heat, so it works on thinner metal and more positions."
+ },
+ {
+  "id": 158,
+  "domain": "level_1_arc_welding_processes",
+  "front": "In GMAW, what does wire feed speed control?",
+  "back": "Amperage. Faster feed means more current because more wire must be melted."
+ },
+ {
+  "id": 159,
+  "domain": "level_1_arc_welding_processes",
+  "front": "In GMAW, what does voltage control?",
+  "back": "Arc length and bead width. Too high gives a flat wide bead and spatter, too low gives a tall narrow bead."
+ },
+ {
+  "id": 160,
+  "domain": "level_1_arc_welding_processes",
+  "front": "What does good short circuit welding sound like?",
+  "back": "A steady crackling, like frying bacon. Loud popping or a hissing wire stub means settings are off."
+ },
+ {
+  "id": 161,
+  "domain": "level_1_arc_welding_processes",
+  "front": "What is stickout (electrode extension)?",
+  "back": "The length of bare wire from the contact tip to the work."
+ },
+ {
+  "id": 162,
+  "domain": "level_1_arc_welding_processes",
+  "front": "What is the usual stickout for short circuit GMAW?",
+  "back": "Commonly 3/8 to 1/2 inch. Keep it steady."
+ },
+ {
+  "id": 163,
+  "domain": "level_1_arc_welding_processes",
+  "front": "How does longer stickout affect current at the same wire speed?",
+  "back": "Current drops and penetration falls. Shorter stickout raises current."
+ },
+ {
+  "id": 164,
+  "domain": "level_1_arc_welding_processes",
+  "front": "What gun angle is usual for GMAW?",
+  "back": "A push angle of about 5° to 15°, with the nozzle pointing in the direction of travel."
+ },
+ {
+  "id": 165,
+  "domain": "level_1_arc_welding_processes",
+  "front": "What effect does pushing have in GMAW?",
+  "back": "A flatter, wider bead, better gas coverage and less penetration than dragging."
+ },
+ {
+  "id": 166,
+  "domain": "level_1_arc_welding_processes",
+  "front": "Which vertical progression is generally used on thick plate for strength?",
+  "back": "Uphill, because it gives better penetration and strength. Downhill is shallow."
+ },
+ {
+  "id": 167,
+  "domain": "level_1_arc_welding_processes",
+  "front": "How does the FCAW wire differ from a GMAW wire?",
+  "back": "It is a hollow tube filled with flux and alloying powders instead of a solid wire."
+ },
+ {
+  "id": 168,
+  "domain": "level_1_arc_welding_processes",
+  "front": "What is FCAW-G?",
+  "back": "Gas-shielded flux cored welding. External gas, usually CO2 or 75/25 argon and CO2, adds to the gas made by the flux, so it is called dual shield."
+ },
+ {
+  "id": 169,
+  "domain": "level_1_arc_welding_processes",
+  "front": "What is FCAW-S?",
+  "back": "Self-shielded flux cored welding. The flux alone makes all the shielding, so no gas cylinder is needed."
+ },
+ {
+  "id": 170,
+  "domain": "level_1_arc_welding_processes",
+  "front": "What polarity does FCAW-G use?",
+  "back": "DCEP."
+ },
+ {
+  "id": 171,
+  "domain": "level_1_arc_welding_processes",
+  "front": "What polarity do many self-shielded FCAW wires use?",
+  "back": "DCEN, but not all do. Read the wire data."
+ },
+ {
+  "id": 172,
+  "domain": "level_1_arc_welding_processes",
+  "front": "Why is FCAW-S good for field work in wind?",
+  "back": "It needs no gas cylinder and its flux makes its own shield."
+ },
+ {
+  "id": 173,
+  "domain": "level_1_arc_welding_processes",
+  "front": "In E71T-1, what does the T mean?",
+  "back": "Tubular, meaning a flux cored wire."
+ },
+ {
+  "id": 174,
+  "domain": "level_1_arc_welding_processes",
+  "front": "In E71T-1, what does the 1 after the 7 mean?",
+  "back": "All positions. A 0 there, as in E70T-1, means flat and horizontal only."
+ },
+ {
+  "id": 175,
+  "domain": "level_1_arc_welding_processes",
+  "front": "In E71T-1, what does the final 1 mean?",
+  "back": "The usability designator. It indicates the shielding gas type and performance class, here CO2 shielding."
+ },
+ {
+  "id": 176,
+  "domain": "level_1_arc_welding_processes",
+  "front": "What are examples of self-shielded flux cored wires?",
+  "back": "E71T-8 and E71T-11. They are used without shielding gas."
+ },
+ {
+  "id": 177,
+  "domain": "level_1_arc_welding_processes",
+  "front": "What does FCAW leave on the weld that GMAW does not?",
+  "back": "Slag, which must be removed between passes like SMAW slag."
+ },
+ {
+  "id": 178,
+  "domain": "level_1_arc_welding_processes",
+  "front": "What is the typical stickout for gas-shielded FCAW wire?",
+  "back": "Commonly about 3/4 to 1 inch. Use the manufacturer's range for self-shielded wire."
+ },
+ {
+  "id": 179,
+  "domain": "level_1_arc_welding_processes",
+  "front": "Which angle is usual for FCAW?",
+  "back": "A drag angle of 5° to 15°, so the slag trails behind the pool."
+ },
+ {
+  "id": 180,
+  "domain": "level_1_arc_welding_processes",
+  "front": "What is the electrode in GTAW?",
+  "back": "A non-consumable tungsten electrode. It does not become part of the weld."
+ },
+ {
+  "id": 181,
+  "domain": "level_1_arc_welding_processes",
+  "front": "What shielding gas does GTAW normally use?",
+  "back": "Pure argon, with a typical flow of 15 to 25 CFH."
+ },
+ {
+  "id": 182,
+  "domain": "level_1_arc_welding_processes",
+  "front": "When is helium added to GTAW shielding gas?",
+  "back": "When more heat is needed on thick or highly conductive metals."
+ },
+ {
+  "id": 183,
+  "domain": "level_1_arc_welding_processes",
+  "front": "What is GTAW best suited for?",
+  "back": "Thin material, stainless steel, aluminum, titanium and critical pipe root passes, where clean precise welds matter."
+ },
+ {
+  "id": 184,
+  "domain": "level_1_arc_welding_processes",
+  "front": "Does GTAW produce slag?",
+  "back": "No. It makes clean welds with no slag, but it is slow and needs very clean metal."
+ },
+ {
+  "id": 185,
+  "domain": "level_1_arc_welding_processes",
+  "front": "How is current controlled during GTAW?",
+  "back": "With a foot pedal or a thumb switch on the torch."
+ },
+ {
+  "id": 186,
+  "domain": "level_1_arc_welding_processes",
+  "front": "What is a high frequency (HF) start?",
+  "back": "The arc jumps to the work without the tungsten touching it, which avoids contamination."
+ },
+ {
+  "id": 187,
+  "domain": "level_1_arc_welding_processes",
+  "front": "What is a lift arc start?",
+  "back": "The tungsten lightly touches the work and is lifted to start the arc at low current."
+ },
+ {
+  "id": 188,
+  "domain": "level_1_arc_welding_processes",
+  "front": "Why should the tungsten not touch the work to start?",
+  "back": "Touching contaminates the tungsten and makes the arc unstable."
+ },
+ {
+  "id": 189,
+  "domain": "level_1_arc_welding_processes",
+  "front": "Which polarity is used for GTAW on steel and stainless steel?",
+  "back": "DCEN. The tungsten stays cooler and can carry high current with a pointed tip."
+ },
+ {
+  "id": 190,
+  "domain": "level_1_arc_welding_processes",
+  "front": "Which current is used for GTAW on aluminum and magnesium?",
+  "back": "AC."
+ },
+ {
+  "id": 191,
+  "domain": "level_1_arc_welding_processes",
+  "front": "What is cleaning action in AC GTAW?",
+  "back": "During the half cycle with the electrode positive, the arc blasts off the tough oxide layer on aluminum or magnesium."
+ },
+ {
+  "id": 192,
+  "domain": "level_1_arc_welding_processes",
+  "front": "What color band marks EWP tungsten?",
+  "back": "Green. EWP is pure tungsten, used on AC for aluminum with a balled tip."
+ },
+ {
+  "id": 193,
+  "domain": "level_1_arc_welding_processes",
+  "front": "What is EWTh-2 tungsten?",
+  "back": "2 percent thoriated tungsten with a red band. It starts easily and lasts long on DCEN, but thorium is mildly radioactive."
+ },
+ {
+  "id": 194,
+  "domain": "level_1_arc_welding_processes",
+  "front": "What color band marks EWCe-2 tungsten?",
+  "back": "Gray. It is 2 percent ceriated tungsten, good at low current DC and usable on AC."
+ },
+ {
+  "id": 195,
+  "domain": "level_1_arc_welding_processes",
+  "front": "What is EWZr-1 tungsten used for?",
+  "back": "Mainly AC welding. It is zirconiated and has a brown band."
+ },
+ {
+  "id": 196,
+  "domain": "level_1_arc_welding_processes",
+  "front": "How should a tungsten be ground for DC welding?",
+  "back": "To a point, with the grind marks running lengthwise along the electrode, not around it."
+ },
+ {
+  "id": 197,
+  "domain": "level_1_arc_welding_processes",
+  "front": "What is a common taper length for a ground tungsten?",
+  "back": "About two to two and a half times the electrode diameter."
+ },
+ {
+  "id": 198,
+  "domain": "level_1_arc_welding_processes",
+  "front": "What do you do if the tungsten touches the weld pool?",
+  "back": "Stop, break off the contaminated end and regrind it. The arc will be unstable until you do."
+ },
+ {
+  "id": 199,
+  "domain": "level_1_arc_welding_processes",
+  "front": "How far does tungsten usually extend past the gas cup?",
+  "back": "Commonly about 1/8 to 1/4 inch, and a little more for a hard-to-reach joint."
+ },
+ {
+  "id": 200,
+  "domain": "level_1_arc_welding_processes",
+  "front": "What is postflow in GTAW?",
+  "back": "Argon that keeps flowing for several seconds after the arc stops to protect the hot tungsten and cooling weld."
+ },
+ {
+  "id": 201,
+  "domain": "level_1_arc_welding_processes",
+  "front": "What rule of thumb is used for postflow time?",
+  "back": "About one second per 10 amps of welding current."
+ },
+ {
+  "id": 202,
+  "domain": "level_1_arc_welding_processes",
+  "front": "What does a blue or gray tungsten after welding suggest?",
+  "back": "Postflow was too short or gas coverage was poor. A good tungsten stays bright and silvery."
+ },
+ {
+  "id": 203,
+  "domain": "level_1_arc_welding_processes",
+  "front": "What GTAW filler is used for mild steel?",
+  "back": "ER70S-2."
+ },
+ {
+  "id": 204,
+  "domain": "level_1_arc_welding_processes",
+  "front": "What GTAW filler is used for 304 stainless steel?",
+  "back": "ER308L."
+ },
+ {
+  "id": 205,
+  "domain": "level_1_arc_welding_processes",
+  "front": "What GTAW fillers are used for aluminum?",
+  "back": "ER4043 or ER5356."
+ },
+ {
+  "id": 206,
+  "domain": "level_1_arc_welding_processes",
+  "front": "At what angle is GTAW filler rod added?",
+  "back": "A low angle of about 15°, to the leading edge of the pool, keeping the hot rod end inside the gas shield."
+ },
+ {
+  "id": 207,
+  "domain": "level_1_arc_welding_processes",
+  "front": "What weld position is 1G?",
+  "back": "Flat position groove weld, made from the top with the pool sitting on top of the joint."
+ },
+ {
+  "id": 208,
+  "domain": "level_1_arc_welding_processes",
+  "front": "What weld position is 2F?",
+  "back": "Horizontal fillet, where the weld is on top of a horizontal surface against a vertical one."
+ },
+ {
+  "id": 209,
+  "domain": "level_1_arc_welding_processes",
+  "front": "What weld position is 3G?",
+  "back": "Vertical groove weld, running up or down a vertical plate."
+ },
+ {
+  "id": 210,
+  "domain": "level_1_arc_welding_processes",
+  "front": "What weld position is 4G?",
+  "back": "Overhead groove weld, made from underneath. It is the most difficult position."
+ },
+ {
+  "id": 211,
+  "domain": "level_1_arc_welding_processes",
+  "front": "What do the letters G and F mean in position names?",
+  "back": "G means groove weld and F means fillet weld. The numbers 1 to 4 are the same for both."
+ },
+ {
+  "id": 212,
+  "domain": "level_1_arc_welding_processes",
+  "front": "How do you adjust for horizontal position welding?",
+  "back": "Use slightly lower current and a slight upward work angle to fight sag."
+ },
+ {
+  "id": 213,
+  "domain": "level_1_arc_welding_processes",
+  "front": "Why is heat input lower in the vertical position?",
+  "back": "Gravity pulls the pool downward, so a smaller, cooler pool is needed."
+ },
+ {
+  "id": 214,
+  "domain": "level_1_arc_welding_processes",
+  "front": "How should you weld overhead to keep the pool from dropping?",
+  "back": "Use smaller electrodes or wire, lower current, short arc lengths and stringer or small weave beads."
+ },
+ {
+  "id": 215,
+  "domain": "level_1_arc_welding_processes",
+  "front": "What is the heat input at 24 volts, 200 amps and 12 inches per minute?",
+  "back": "24 × 200 × 60 ÷ 12 = 24,000 joules per inch, or 24 kJ/in."
+ },
+ {
+  "id": 216,
+  "domain": "level_1_arc_welding_processes",
+  "front": "Why does heat input matter?",
+  "back": "Too much can weaken some steels and cause distortion. Too little leads to cold cracking and lack of fusion."
+ },
+ {
+  "id": 217,
+  "domain": "level_1_arc_welding_processes",
+  "front": "What is the difference between a discontinuity and a defect?",
+  "back": "A discontinuity is any break in weld uniformity. A defect is a discontinuity large enough to fail the inspection code."
+ },
+ {
+  "id": 218,
+  "domain": "level_1_arc_welding_processes",
+  "front": "How does porosity show up on the surface of a weld?",
+  "back": "Gas pockets trapped in the weld. A surface pore is a pinhole and a line of them is wormhole porosity."
+ },
+ {
+  "id": 219,
+  "domain": "level_1_arc_welding_processes",
+  "front": "Which arc welding habits and conditions lead to porosity?",
+  "back": "Damp electrodes, dirty base metal, too long an arc, drafts, empty or clogged gas supply, or too fast travel."
+ },
+ {
+  "id": 220,
+  "domain": "level_1_arc_welding_processes",
+  "front": "Which discontinuity is a melted groove left unfilled at the edge of a weld?",
+  "back": "Undercut: a groove melted into the base metal at the weld edge and left unfilled."
+ },
+ {
+  "id": 221,
+  "domain": "level_1_arc_welding_processes",
+  "front": "Which welder settings and habits cause undercut?",
+  "back": "Too much current or voltage, too fast travel, too long an arc or the wrong angle."
+ },
+ {
+  "id": 222,
+  "domain": "level_1_arc_welding_processes",
+  "front": "What is overlap (cold lap)?",
+  "back": "Weld metal rolls onto the base metal without fusing to it."
+ },
+ {
+  "id": 223,
+  "domain": "level_1_arc_welding_processes",
+  "front": "Which discontinuity is weld metal that did not melt into the sidewall or the previous bead?",
+  "back": "Lack of fusion: weld metal that does not melt into the sidewall or the previous bead."
+ },
+ {
+  "id": 224,
+  "domain": "level_1_arc_welding_processes",
+  "front": "Which settings and techniques lead to lack of fusion?",
+  "back": "Too little current, too fast travel, poor angle, dirty surfaces or short circuit GMAW at too low a setting."
+ },
+ {
+  "id": 225,
+  "domain": "level_1_arc_welding_processes",
+  "front": "Which discontinuity leaves the weld short of the root of the joint?",
+  "back": "Incomplete joint penetration: the weld does not reach the root of the joint."
+ },
+ {
+  "id": 226,
+  "domain": "level_1_arc_welding_processes",
+  "front": "What causes incomplete joint penetration in a groove weld, and how is it cured?",
+  "back": "Low current, too large a root face, too small a root gap or fast travel. Cures are more current, wider gap, smaller root face and slower travel."
+ },
+ {
+  "id": 227,
+  "domain": "level_1_arc_welding_processes",
+  "front": "Which arc welding processes most often trap slag in the weld?",
+  "back": "Slag trapped in the weld, mostly seen in SMAW and FCAW."
+ },
+ {
+  "id": 228,
+  "domain": "level_1_arc_welding_processes",
+  "front": "How do you prevent slag inclusions?",
+  "back": "Chip and brush each pass fully, grind high spots and deep valleys, and keep the arc on the leading edge of the pool."
+ },
+ {
+  "id": 229,
+  "domain": "level_1_arc_welding_processes",
+  "front": "What are common causes of weld cracking?",
+  "back": "Hydrogen from wet electrodes, high restraint, rapid cooling, high carbon base metal, too small a bead and unfilled craters."
+ },
+ {
+  "id": 230,
+  "domain": "level_1_arc_welding_processes",
+  "front": "How do you prevent cracks?",
+  "back": "Use dry low-hydrogen electrodes, preheat when the WPS requires it, use correct filler, fill craters and avoid excessive restraint."
+ },
+ {
+  "id": 231,
+  "domain": "thermal_cutting_processes",
+  "front": "What are the three steps of oxy-fuel cutting?",
+  "back": "Preheat flames bring the steel to kindling temperature, then the cutting oxygen stream burns the red-hot iron. The force of the stream blows the iron oxide slag out the bottom of the cut."
+ },
+ {
+  "id": 232,
+  "domain": "thermal_cutting_processes",
+  "front": "About what temperature must steel reach before the cutting oxygen is used?",
+  "back": "Roughly 1,600°F to 1,800°F, when the steel glows bright cherry red. The preheat flames bring it to that kindling temperature."
+ },
+ {
+  "id": 233,
+  "domain": "thermal_cutting_processes",
+  "front": "Why can oxy-fuel cutting not cut aluminum in the normal way?",
+  "back": "Aluminum melts at about 1,220°F, but its oxide melts at about 3,700°F. The oxide skin acts like a lid on the cut, so the torch only melts and smears the metal."
+ },
+ {
+  "id": 234,
+  "domain": "thermal_cutting_processes",
+  "front": "Why is stainless steel not cut with a standard oxy-fuel torch?",
+  "back": "Chromium forms a tough oxide film that resists the burning reaction and melts at a higher temperature than the metal under it. Plasma, saw, laser, or waterjet is used instead."
+ },
+ {
+  "id": 235,
+  "domain": "thermal_cutting_processes",
+  "front": "What are the holes in a cutting tip for?",
+  "back": "The large center hole carries the cutting oxygen. The ring of smaller holes around it carries the gas mixture for the preheat flames."
+ },
+ {
+  "id": 236,
+  "domain": "thermal_cutting_processes",
+  "front": "What is slag in oxy-fuel cutting?",
+  "back": "Slag is the iron oxide that the cutting oxygen stream blows out of the bottom of the cut. A small amount that knocks off easily is normal on a good cut."
+ },
+ {
+  "id": 237,
+  "domain": "thermal_cutting_processes",
+  "front": "What pressure limit applies to acetylene?",
+  "back": "Never set acetylene working pressure above 15 psig. Above that it can break down on its own and explode."
+ },
+ {
+  "id": 238,
+  "domain": "thermal_cutting_processes",
+  "front": "Why must an acetylene cylinder be used upright?",
+  "back": "Acetylene is dissolved in acetone inside a porous filler. Lying down, the cylinder can let liquid acetone reach the regulator and hose."
+ },
+ {
+  "id": 239,
+  "domain": "thermal_cutting_processes",
+  "front": "About what pressure does a full oxygen cylinder read?",
+  "back": "About 2,200 psi at room temperature. A reading near 1,100 psi means the cylinder is about half full."
+ },
+ {
+  "id": 240,
+  "domain": "thermal_cutting_processes",
+  "front": "About what pressure does a full acetylene cylinder read?",
+  "back": "About 250 psi. It is low because acetylene is unstable at higher pressures and is stored dissolved in acetone."
+ },
+ {
+  "id": 241,
+  "domain": "thermal_cutting_processes",
+  "front": "How far should an acetylene cylinder valve be opened?",
+  "back": "About three quarters of a turn, and never more than one and a half turns. Leave the cylinder wrench on the valve so it can be closed quickly."
+ },
+ {
+  "id": 242,
+  "domain": "thermal_cutting_processes",
+  "front": "How is an oxygen cylinder valve opened differently from an acetylene valve?",
+  "back": "An oxygen valve is opened all the way until it seats at the back. This seals the valve stem against leaks."
+ },
+ {
+  "id": 243,
+  "domain": "thermal_cutting_processes",
+  "front": "How can you tell fuel gas fittings and hoses from oxygen ones?",
+  "back": "Fuel gas fittings have left-hand threads with a groove on the nut, and oxygen fittings have right-hand threads. In the US the oxygen hose is green and the fuel gas hose is red."
+ },
+ {
+  "id": 244,
+  "domain": "thermal_cutting_processes",
+  "front": "What do the two gauges on a regulator show?",
+  "back": "The high pressure gauge shows how much gas is left in the cylinder. The low pressure gauge shows the working pressure going to the hose."
+ },
+ {
+  "id": 245,
+  "domain": "thermal_cutting_processes",
+  "front": "Why must oil and grease be kept away from oxygen equipment?",
+  "back": "Oil or grease and pure oxygen can ignite on contact. Never touch oxygen cylinders, regulators, or fittings with oily hands or rags."
+ },
+ {
+  "id": 246,
+  "domain": "thermal_cutting_processes",
+  "front": "How should you test connections for gas leaks?",
+  "back": "Brush on soapy water or leak detection fluid and watch for bubbles. Never use a flame to find a leak."
+ },
+ {
+  "id": 247,
+  "domain": "thermal_cutting_processes",
+  "front": "How far apart must oxygen and fuel gas cylinders be stored?",
+  "back": "At least 20 feet apart, or separated by a noncombustible barrier at least 5 feet high with a fire rating of at least half an hour."
+ },
+ {
+  "id": 248,
+  "domain": "thermal_cutting_processes",
+  "front": "What tool should be used to light a cutting torch?",
+  "back": "Use a spark lighter, also called a striker. A match or butane lighter puts your hand too close to the tip."
+ },
+ {
+  "id": 249,
+  "domain": "thermal_cutting_processes",
+  "front": "In what order are the torch valves closed when shutting off the flame?",
+  "back": "Close the torch fuel valve first, then the oxygen valve. This stops the flame quickly and keeps soot from forming."
+ },
+ {
+  "id": 250,
+  "domain": "thermal_cutting_processes",
+  "front": "What does a neutral flame look like, and what does it do to the steel?",
+  "back": "It has equal oxygen and acetylene and shows a sharp bright blue inner cone. It neither adds carbon to the steel nor burns it."
+ },
+ {
+  "id": 251,
+  "domain": "thermal_cutting_processes",
+  "front": "What is a carburizing flame?",
+  "back": "A flame with too much acetylene, shown by a feather between the inner cone and the outer flame. It adds carbon to the steel, making it hard and brittle."
+ },
+ {
+  "id": 252,
+  "domain": "thermal_cutting_processes",
+  "front": "What is an oxidizing flame?",
+  "back": "A flame with too much oxygen, shown by a short, pointed, hissing inner cone. It can burn the metal and leave a rough surface."
+ },
+ {
+  "id": 253,
+  "domain": "thermal_cutting_processes",
+  "front": "What is the difference between a backfire and a flashback?",
+  "back": "A backfire is a short pop, and the flame may go out or relight. A flashback is the flame burning back past the mixing point into the torch and hose, with a loud squeal or hiss."
+ },
+ {
+  "id": 254,
+  "domain": "thermal_cutting_processes",
+  "front": "What should you do first when a flashback occurs?",
+  "back": "Close the torch oxygen valve first, then the fuel valve, then the cylinder valves. Have the equipment inspected before reuse and follow shop procedure."
+ },
+ {
+  "id": 255,
+  "domain": "thermal_cutting_processes",
+  "front": "What do check valves and flashback arrestors do?",
+  "back": "A check valve lets gas flow only one way so the other gas cannot run backward in the hose. A flashback arrestor stops the flame and often shuts off the gas."
+ },
+ {
+  "id": 256,
+  "domain": "thermal_cutting_processes",
+  "front": "How does a bevel cut change the thickness the oxygen stream must cut?",
+  "back": "The path length equals the plate thickness divided by the cosine of the bevel angle. A 3/8 inch plate at a 45° bevel is 0.375 ÷ 0.7071 = 0.530 inch."
+ },
+ {
+  "id": 257,
+  "domain": "thermal_cutting_processes",
+  "front": "What causes drag lines to sweep far backward at the bottom of an oxy-fuel cut?",
+  "back": "Travel speed that is too fast or cutting oxygen pressure that is too low. A good cut has drag lines that are nearly straight up and down."
+ },
+ {
+  "id": 258,
+  "domain": "thermal_cutting_processes",
+  "front": "What does a plasma arc cutter need that oxy-fuel cutting does not?",
+  "back": "An electrically conductive workpiece and a work clamp on clean bare metal. The transferred arc must complete its circuit through the work."
+ },
+ {
+  "id": 259,
+  "domain": "thermal_cutting_processes",
+  "front": "How does carbon arc gouging remove metal?",
+  "back": "An arc between a carbon-graphite electrode and the work melts the metal, and compressed air at about 80 to 100 psi blows it out. The electrode is held at about 45° in the travel direction."
+ },
+ {
+  "id": 260,
+  "domain": "thermal_cutting_processes",
+  "front": "Why is cutting galvanized steel a health risk?",
+  "back": "The zinc coating boils and gives off zinc oxide smoke. Breathing it can cause metal fume fever, a flu-like illness, so use ventilation and a respirator when required."
+ },
+ {
+  "id": 261,
+  "domain": "trade_math",
+  "front": "How do you add 3/8 and 1/4?",
+  "back": "Give them the same denominator first: 1/4 becomes 2/8. Then 3/8 + 2/8 = 5/8."
+ },
+ {
+  "id": 262,
+  "domain": "trade_math",
+  "front": "How do you divide by a fraction, for example 5/8 ÷ 1/4?",
+  "back": "Flip the second fraction and multiply. So 5/8 × 4 = 20/8 = 2 1/2."
+ },
+ {
+  "id": 263,
+  "domain": "trade_math",
+  "front": "What is 7/8 minus 3/16?",
+  "back": "Change 7/8 to 14/16, then subtract: 14/16 minus 3/16 = 11/16."
+ },
+ {
+  "id": 264,
+  "domain": "trade_math",
+  "front": "What is 2 3/8 + 1 7/8?",
+  "back": "Add wholes (3) and fractions (10/8 = 1 2/8). The total is 4 1/4, or 4.25 in decimals."
+ },
+ {
+  "id": 265,
+  "domain": "trade_math",
+  "front": "How do you change a fraction to a decimal?",
+  "back": "Divide the top number by the bottom number. For example 5/16 = 5 ÷ 16 = 0.3125."
+ },
+ {
+  "id": 266,
+  "domain": "trade_math",
+  "front": "What is 3/8 inch as a decimal?",
+  "back": "3 ÷ 8 = 0.375 inch. It is one of the common fractions worth memorizing."
+ },
+ {
+  "id": 267,
+  "domain": "trade_math",
+  "front": "What is 0.625 as a fraction?",
+  "back": "0.625 = 625/1000, which reduces to 5/8."
+ },
+ {
+  "id": 268,
+  "domain": "trade_math",
+  "front": "What is 0.1875 as a fraction?",
+  "back": "0.1875 = 1875/10000, which reduces to 3/16."
+ },
+ {
+  "id": 269,
+  "domain": "trade_math",
+  "front": "What is 7/32 inch as a decimal?",
+  "back": "7 ÷ 32 = 0.21875 inch."
+ },
+ {
+  "id": 270,
+  "domain": "trade_math",
+  "front": "How many millimeters are in one inch?",
+  "back": "Exactly 25.4 mm. Every inch and metric conversion uses this number."
+ },
+ {
+  "id": 271,
+  "domain": "trade_math",
+  "front": "How do you convert inches to millimeters?",
+  "back": "Multiply the inches by 25.4. For example 3/8 inch = 0.375 × 25.4 = 9.525 mm."
+ },
+ {
+  "id": 272,
+  "domain": "trade_math",
+  "front": "How do you convert millimeters to inches?",
+  "back": "Divide the millimeters by 25.4. For example 100 mm ÷ 25.4 = 3.937 inches."
+ },
+ {
+  "id": 273,
+  "domain": "trade_math",
+  "front": "How do you find a percent of a number?",
+  "back": "Change the percent to a decimal by moving the point two places left, then multiply. So 15% of 80 = 0.15 × 80 = 12."
+ },
+ {
+  "id": 274,
+  "domain": "trade_math",
+  "front": "How do you find what percent one number is of another?",
+  "back": "Divide the part by the whole, then multiply by 100. If 2.5 lb of a 40 lb spool is wasted, 2.5 ÷ 40 = 0.0625, or 6.25%."
+ },
+ {
+  "id": 275,
+  "domain": "trade_math",
+  "front": "How do you solve a proportion such as 1/4 = 3/x?",
+  "back": "Cross multiply: multiply the diagonal numbers, then divide by the remaining number. Here x = 3 × 4 ÷ 1 = 12."
+ },
+ {
+  "id": 276,
+  "domain": "trade_math",
+  "front": "How do you find the perimeter of a rectangle?",
+  "back": "Perimeter = 2 × (length + width). A 24 by 36 inch frame has 2 × 60 = 120 inches, or 10 feet."
+ },
+ {
+  "id": 277,
+  "domain": "trade_math",
+  "front": "How do you change square inches to square feet?",
+  "back": "Divide by 144, because 12 × 12 = 144. A plate of 864 square inches is 6 square feet."
+ },
+ {
+  "id": 278,
+  "domain": "trade_math",
+  "front": "What is the formula for the area of a circle?",
+  "back": "Area = π × radius², with π about 3.1416. A circle 6 inches across has area 3.1416 × 9 = 28.27 square inches."
+ },
+ {
+  "id": 279,
+  "domain": "trade_math",
+  "front": "What is the formula for the volume of a block or plate?",
+  "back": "Volume = length × width × thickness. A plate 12 by 6 by 1/2 inch is 36 cubic inches."
+ },
+ {
+  "id": 280,
+  "domain": "trade_math",
+  "front": "About how much does carbon steel weigh per cubic inch?",
+  "back": "About 0.283 pound per cubic inch. Multiply volume by this to find the weight of a steel part."
+ },
+ {
+  "id": 281,
+  "domain": "trade_math",
+  "front": "What is the area of a fillet weld with equal legs?",
+  "back": "The cross section is a right triangle, so area = leg × leg ÷ 2. A 1/4 inch fillet has an area of 0.03125 square inch."
+ },
+ {
+  "id": 282,
+  "domain": "trade_math",
+  "front": "How much weld metal does a 1/4 inch fillet hold per foot?",
+  "back": "Volume per foot is 0.03125 × 12 = 0.375 cubic inch. At 0.283 lb per cubic inch, that is about 0.106 pound per foot."
+ },
+ {
+  "id": 283,
+  "domain": "trade_math",
+  "front": "How much weld metal does a 3/8 inch fillet hold per foot?",
+  "back": "Area is 0.0703 square inch, volume per foot is 0.844 cubic inch, and weight is about 0.239 pound per foot."
+ },
+ {
+  "id": 284,
+  "domain": "trade_math",
+  "front": "How much weld metal does a 1/2 inch fillet hold per foot?",
+  "back": "Area is 0.125 square inch, volume per foot is 1.5 cubic inches, and weight is about 0.425 pound per foot."
+ },
+ {
+  "id": 285,
+  "domain": "trade_math",
+  "front": "What happens to weld metal if you double the fillet leg size?",
+  "back": "The weld metal quadruples, because area depends on the leg multiplied by itself. A 1/2 inch fillet holds 4 times as much as a 1/4 inch fillet."
+ },
+ {
+  "id": 286,
+  "domain": "trade_math",
+  "front": "How much weld metal is in 50 feet of 1/4 inch fillet?",
+  "back": "About 0.106 × 50 = 5.3 pounds of weld metal."
+ },
+ {
+  "id": 287,
+  "domain": "trade_math",
+  "front": "What is deposition efficiency?",
+  "back": "It is the percent of the filler metal used that actually ends up in the weld. The rest is lost as spatter, slag, stubs or fume."
+ },
+ {
+  "id": 288,
+  "domain": "trade_math",
+  "front": "How do you find how much filler to buy for a given weld metal weight?",
+  "back": "Divide the weld metal weight by the efficiency as a decimal. For 5.3 lb at 95% efficiency, 5.3 ÷ 0.95 = 5.58 lb of wire."
+ },
+ {
+  "id": 289,
+  "domain": "trade_math",
+  "front": "How much stick electrode is needed for 5.3 pounds of weld metal at 60% efficiency?",
+  "back": "5.3 ÷ 0.60 = 8.83 pounds of electrodes. Stick efficiency is low because of the stub and flux coating."
+ },
+ {
+  "id": 290,
+  "domain": "trade_math",
+  "front": "How is a bevel angle measured when laying out a cut on plate?",
+  "back": "It is the angle of the cut edge, measured from a square cut across the plate edge. A 30 degree bevel leaves a face 60 degrees from the plate surface."
+ },
+ {
+  "id": 291,
+  "domain": "trade_math",
+  "front": "How are bevel angle and included angle related when both plates are beveled equally?",
+  "back": "The included angle is twice the bevel angle. A 30 degree bevel on each plate gives a 60 degree included angle."
+ },
+ {
+  "id": 292,
+  "domain": "trade_math",
+  "front": "What cut angle does each piece of a two piece 90 degree miter need?",
+  "back": "Each cut is half of the turn, so 90 ÷ 2 = 45 degrees."
+ },
+ {
+  "id": 293,
+  "domain": "trade_math",
+  "front": "What is the cut angle for each cut in a three piece 90 degree elbow?",
+  "back": "The 90 degree turn is split over two joints, so 45 degrees per joint. Each joint is two cuts, so each cut is 22.5 degrees."
+ },
+ {
+  "id": 294,
+  "domain": "trade_math",
+  "front": "What is the formula for the circumference of a pipe?",
+  "back": "C = π × D, using the true outside diameter. NPS 6 pipe has an outside diameter of 6.625 inches, so C = 20.81 inches."
+ },
+ {
+  "id": 295,
+  "domain": "trade_math",
+  "front": "What is the outside diameter of NPS 6 pipe?",
+  "back": "6.625 inches. For common pipe sizes the true outside diameter is larger than the nominal size, so use the real OD in formulas."
+ },
+ {
+  "id": 296,
+  "domain": "trade_math",
+  "front": "How do you find a pipe diameter from a measured circumference?",
+  "back": "Divide the circumference by π. A circumference of 31.4 inches gives 31.4 ÷ 3.1416 = 10.0 inches."
+ },
+ {
+  "id": 297,
+  "domain": "trade_math",
+  "front": "How do you convert wire feed speed to pounds per hour?",
+  "back": "Find the weight per inch of wire (π ÷ 4 × diameter² × 0.283), multiply by inches per minute, then by 60. At 400 ipm, 0.035 inch wire melts about 6.53 lb per hour."
+ },
+ {
+  "id": 298,
+  "domain": "trade_math",
+  "front": "How much 0.045 inch wire is melted per hour at 300 ipm?",
+  "back": "Weight per inch is 0.000450 lb. Then 300 × 0.000450 × 60 = 8.10 pounds per hour, or about 7.70 deposited at 95% efficiency."
+ },
+ {
+  "id": 299,
+  "domain": "trade_math",
+  "front": "How do you calculate travel speed?",
+  "back": "Divide the weld length by the time. Welding 12 inches in 48 seconds (0.8 minute) gives 12 ÷ 0.8 = 15 inches per minute."
+ },
+ {
+  "id": 300,
+  "domain": "trade_math",
+  "front": "What is the heat input formula in kJ per inch?",
+  "back": "Heat input = (volts × amps × 60) ÷ (travel speed in inches per minute × 1000). At 24 V, 220 A and 12 in/min, heat input is 26.4 kJ/in. Doubling travel speed cuts it in half."
+ },
+ {
+  "id": 301,
+  "domain": "welding_metallurgy",
+  "front": "What is the carbon range of low carbon (mild) steel?",
+  "back": "Low carbon steel has up to about 0.30% carbon. It welds easily and includes most structural steel such as A36 plate."
+ },
+ {
+  "id": 302,
+  "domain": "welding_metallurgy",
+  "front": "What is the carbon range of medium carbon steel?",
+  "back": "Medium carbon steel has about 0.30% to 0.60% carbon. It is stronger but usually needs preheat to avoid cracking."
+ },
+ {
+  "id": 303,
+  "domain": "welding_metallurgy",
+  "front": "Why is high carbon steel hard to weld?",
+  "back": "High carbon steel has about 0.60% to 1.0% carbon or more. It turns hard and brittle after welding, so it needs careful preheat and slow cooling."
+ },
+ {
+  "id": 304,
+  "domain": "welding_metallurgy",
+  "front": "What does carbon do to steel?",
+  "back": "Carbon makes steel stronger and harder. It also lowers ductility and makes the steel harder to weld."
+ },
+ {
+  "id": 305,
+  "domain": "welding_metallurgy",
+  "front": "What makes a steel a stainless steel?",
+  "back": "Stainless steel contains at least about 10.5% chromium. The chromium forms a thin protective oxide layer on the surface."
+ },
+ {
+  "id": 306,
+  "domain": "welding_metallurgy",
+  "front": "Why are chromium and molybdenum added to low alloy steels?",
+  "back": "They add strength at high temperature. That is why they are common in boilers and pressure piping."
+ },
+ {
+  "id": 307,
+  "domain": "welding_metallurgy",
+  "front": "What does hardenability mean?",
+  "back": "Hardenability is how easily a steel turns hard when it is cooled quickly. Manganese and other alloying elements raise it."
+ },
+ {
+  "id": 308,
+  "domain": "welding_metallurgy",
+  "front": "What is carbon equivalent (CE)?",
+  "back": "CE adds the effect of carbon and other hardening elements into one number as if they were all carbon. A higher CE means more risk of a hard, crack-prone weld zone."
+ },
+ {
+  "id": 309,
+  "domain": "welding_metallurgy",
+  "front": "What is the IIW carbon equivalent formula?",
+  "back": "CE = C + Mn ÷ 6 + (Cr + Mo + V) ÷ 5 + (Ni + Cu) ÷ 15. Each symbol is the percent of that element in the steel."
+ },
+ {
+  "id": 310,
+  "domain": "welding_metallurgy",
+  "front": "Find CE for C 0.20, Mn 0.90, Cr 0.10, Mo 0.05, V 0.02, Ni 0.10, Cu 0.15.",
+  "back": "Mn ÷ 6 is 0.15, (Cr + Mo + V) ÷ 5 is 0.034 and (Ni + Cu) ÷ 15 is 0.0167. Added to 0.20 carbon, CE is about 0.40."
+ },
+ {
+  "id": 311,
+  "domain": "welding_metallurgy",
+  "front": "What does a low CE tell you about weldability?",
+  "back": "A low CE, roughly below 0.35 to 0.40, means the steel is easy to weld and often needs little preheat on thin sections. Always check the code and the WPS for the real limit."
+ },
+ {
+  "id": 312,
+  "domain": "welding_metallurgy",
+  "front": "What is the heat-affected zone (HAZ)?",
+  "back": "The HAZ is base metal that did not melt but got hot enough for its internal structure to change. It sits between the fusion line and the unaffected base metal."
+ },
+ {
+  "id": 313,
+  "domain": "welding_metallurgy",
+  "front": "Which part of the HAZ is usually hardest and most brittle?",
+  "back": "The coarse grain region next to the fusion line. It got the hottest and its grains grew large."
+ },
+ {
+  "id": 314,
+  "domain": "welding_metallurgy",
+  "front": "Write the arc welding heat input formula.",
+  "back": "Heat input in kJ per inch = (volts × amps × 60) ÷ (travel speed in inches per minute × 1000)."
+ },
+ {
+  "id": 315,
+  "domain": "welding_metallurgy",
+  "front": "Find heat input at 25 V, 200 A and 10 inches per minute.",
+  "back": "25 × 200 × 60 = 300,000. Divided by 10 × 1000 gives 30 kJ per inch."
+ },
+ {
+  "id": 316,
+  "domain": "welding_metallurgy",
+  "front": "What happens to heat input and HAZ width when travel speed increases?",
+  "back": "Heat input drops and the HAZ gets narrower. Cooling is also faster."
+ },
+ {
+  "id": 317,
+  "domain": "welding_metallurgy",
+  "front": "What are grains in metal?",
+  "back": "Grains are small crystals in which the atoms sit in an orderly pattern. Grain boundaries are the borders between them."
+ },
+ {
+  "id": 318,
+  "domain": "welding_metallurgy",
+  "front": "How does grain size affect toughness?",
+  "back": "Small, fine grains give a tougher metal. Large, coarse grains give a more brittle one."
+ },
+ {
+  "id": 319,
+  "domain": "welding_metallurgy",
+  "front": "Why does thick plate cool faster than thin plate?",
+  "back": "Heat flows away from the weld in three directions in thick plate. That faster cooling makes hardening and cracking more likely."
+ },
+ {
+  "id": 320,
+  "domain": "welding_metallurgy",
+  "front": "Name three things that speed up cooling after welding.",
+  "back": "Thick plate, cold plate and low heat input all speed up cooling. Small stringer beads on thick metal also cool quickly."
+ },
+ {
+  "id": 321,
+  "domain": "welding_metallurgy",
+  "front": "What is the main job of preheat?",
+  "back": "Preheat slows the cooling rate. That gives softer structures, lowers cracking risk and lets hydrogen escape."
+ },
+ {
+  "id": 322,
+  "domain": "welding_metallurgy",
+  "front": "Name conditions that call for more preheat.",
+  "back": "Higher carbon or CE, thicker plate, rigid joints and a cold shop all call for more preheat. High hydrogen conditions do too."
+ },
+ {
+  "id": 323,
+  "domain": "welding_metallurgy",
+  "front": "What is interpass temperature?",
+  "back": "It is the temperature of the weld area between passes. Procedures usually set a minimum and a maximum."
+ },
+ {
+  "id": 324,
+  "domain": "welding_metallurgy",
+  "front": "Why is a maximum interpass temperature set?",
+  "back": "Too much heat builds up, grains grow and strength and toughness drop. The maximum protects the properties of the joint."
+ },
+ {
+  "id": 325,
+  "domain": "welding_metallurgy",
+  "front": "Where should preheat temperature be measured?",
+  "back": "Measure on the base metal close to the joint, preferably on the side away from the heat source. That shows the whole thickness has soaked."
+ },
+ {
+  "id": 326,
+  "domain": "welding_metallurgy",
+  "front": "What tools check preheat and interpass temperature?",
+  "back": "Temperature indicating crayons, contact pyrometers and infrared thermometers. A crayon mark melts at its stated temperature."
+ },
+ {
+  "id": 327,
+  "domain": "welding_metallurgy",
+  "front": "What is ferrite?",
+  "back": "Ferrite is body centered cubic iron that holds at most about 0.02% carbon. It is soft, ductile and magnetic."
+ },
+ {
+  "id": 328,
+  "domain": "welding_metallurgy",
+  "front": "What is austenite?",
+  "back": "Austenite is face centered cubic iron that forms when steel is heated above its critical temperature. It can dissolve far more carbon and is not magnetic."
+ },
+ {
+  "id": 329,
+  "domain": "welding_metallurgy",
+  "front": "At about what temperature does 0.77% carbon steel start changing to austenite?",
+  "back": "About 1341°F (727°C). Steels with less carbon finish changing at higher temperatures."
+ },
+ {
+  "id": 330,
+  "domain": "welding_metallurgy",
+  "front": "What is cementite?",
+  "back": "Cementite is iron carbide, a very hard, brittle compound with 6.67% carbon."
+ },
+ {
+  "id": 331,
+  "domain": "welding_metallurgy",
+  "front": "What is pearlite?",
+  "back": "Pearlite is a layered mixture of ferrite and cementite. It is strong and moderately ductile."
+ },
+ {
+  "id": 332,
+  "domain": "welding_metallurgy",
+  "front": "What is martensite and why is it a welding problem?",
+  "back": "Martensite forms when austenite cools too fast and traps carbon in a stressed, distorted pattern. It is very hard and brittle, so it cracks easily."
+ },
+ {
+  "id": 333,
+  "domain": "welding_metallurgy",
+  "front": "How does cooling speed decide the structure in steel?",
+  "back": "Slow cooling gives soft pearlite. Medium cooling gives tough bainite and fast cooling gives hard martensite."
+ },
+ {
+  "id": 334,
+  "domain": "welding_metallurgy",
+  "front": "Define tempering.",
+  "back": "Tempering is reheating hardened steel to a moderate temperature. It softens the steel a little and lifts toughness."
+ },
+ {
+  "id": 335,
+  "domain": "welding_metallurgy",
+  "front": "What is the difference between tensile strength and yield strength?",
+  "back": "Tensile strength is the highest stress the metal can carry before breaking. Yield strength is the stress at which it starts to bend permanently."
+ },
+ {
+  "id": 336,
+  "domain": "welding_metallurgy",
+  "front": "What is ductility and how is it often reported?",
+  "back": "Ductility is how far metal stretches before breaking. It is often given as percent elongation."
+ },
+ {
+  "id": 337,
+  "domain": "welding_metallurgy",
+  "front": "What does a Charpy V-notch test measure?",
+  "back": "It measures toughness, the energy a notched metal bar absorbs when struck. Toughness drops as temperature falls."
+ },
+ {
+  "id": 338,
+  "domain": "welding_metallurgy",
+  "front": "Find stress in a 0.5 inch by 1 inch bar pulled with 18,000 pounds.",
+  "back": "Area is 0.5 in². Stress is 18,000 ÷ 0.5 = 36,000 psi, or 36 ksi."
+ },
+ {
+  "id": 339,
+  "domain": "welding_metallurgy",
+  "front": "What is the minimum yield strength of A36 steel?",
+  "back": "A36 steel has a minimum yield of 36 ksi."
+ },
+ {
+  "id": 340,
+  "domain": "welding_metallurgy",
+  "front": "What is postweld heat treatment (PWHT)?",
+  "back": "PWHT is controlled heating of a finished weld. The part is heated slowly, held at temperature and cooled slowly."
+ },
+ {
+  "id": 341,
+  "domain": "welding_metallurgy",
+  "front": "What are typical stress relief conditions for carbon steel?",
+  "back": "About 1100°F to 1250°F, held about one hour per inch of thickness. The code sets the real values."
+ },
+ {
+  "id": 342,
+  "domain": "welding_metallurgy",
+  "front": "Name benefits of stress relief.",
+  "back": "It lowers residual stress, softens the hard HAZ, improves toughness and helps hydrogen escape."
+ },
+ {
+  "id": 343,
+  "domain": "welding_metallurgy",
+  "front": "What is residual stress?",
+  "back": "Residual stress is stress left inside a metal with no outside load. In a restrained weld it can reach the yield strength."
+ },
+ {
+  "id": 344,
+  "domain": "welding_metallurgy",
+  "front": "Why does a weld distort?",
+  "back": "The hot weld metal wants to expand but is held back by cold metal. On cooling it shrinks and pulls the plate with it."
+ },
+ {
+  "id": 345,
+  "domain": "welding_metallurgy",
+  "front": "Give three ways to control distortion.",
+  "back": "Use the smallest weld size that meets the drawing, balance welds on both sides and use a backstep or skip sequence. Clamps, jigs and presetting also help."
+ },
+ {
+  "id": 346,
+  "domain": "welding_metallurgy",
+  "front": "What is the trade off of heavy clamping?",
+  "back": "Clamping reduces distortion but locks in more residual stress. On hard steels cracking risk can go up."
+ },
+ {
+  "id": 347,
+  "domain": "welding_metallurgy",
+  "front": "What three conditions are needed for hydrogen cracking?",
+  "back": "Hydrogen in the weld, a hard microstructure such as martensite and tensile stress. Removing any one stops the cracking."
+ },
+ {
+  "id": 348,
+  "domain": "welding_metallurgy",
+  "front": "When does hydrogen cracking appear?",
+  "back": "It is delayed, often hours or a day or more after welding. It tends to occur below about 300°F."
+ },
+ {
+  "id": 349,
+  "domain": "welding_metallurgy",
+  "front": "What do the digits in E7018 mean?",
+  "back": "The 70 is minimum tensile strength of 70 ksi, the 1 is all positions and the 8 is a low hydrogen iron powder covering. Check the AWS classification for current types."
+ },
+ {
+  "id": 350,
+  "domain": "welding_metallurgy",
+  "front": "How should low hydrogen electrodes be stored once the can is open?",
+  "back": "Keep them in a heated rod oven, often about 250°F to 300°F. Follow the WPS and maker for exposure limits."
+ },
+ {
+  "id": 351,
+  "domain": "welding_metallurgy",
+  "front": "Why is E6010 a high hydrogen electrode?",
+  "back": "Its cellulose covering puts a lot of hydrogen into the weld. It is not a low hydrogen electrode."
+ },
+ {
+  "id": 352,
+  "domain": "welding_metallurgy",
+  "front": "What is sensitization in stainless steel?",
+  "back": "In austenitic stainless held at roughly 800°F to 1500°F, chromium carbides form at the grain boundaries. That uses up nearby chromium and allows intergranular corrosion."
+ },
+ {
+  "id": 353,
+  "domain": "welding_metallurgy",
+  "front": "Name two ways to prevent sensitization.",
+  "back": "Use low carbon grades such as 304L or stabilized grades such as 321 and 347. Low heat input and controlled interpass temperature also help."
+ },
+ {
+  "id": 354,
+  "domain": "welding_metallurgy",
+  "front": "Which fillers are used for 304, 316 and carbon steel to stainless?",
+  "back": "ER308L is typical for 304 and ER316L for 316. ER309L is used for carbon steel to stainless."
+ },
+ {
+  "id": 355,
+  "domain": "welding_metallurgy",
+  "front": "Why does austenitic stainless distort more than carbon steel?",
+  "back": "It expands about 1.5 times as much and conducts only about one third as much heat. Heat stays near the weld."
+ },
+ {
+  "id": 356,
+  "domain": "welding_metallurgy",
+  "front": "Why is aluminum oxide a welding problem?",
+  "back": "The oxide melts at about 3700°F while the aluminum melts at about 1220°F. It must be removed just before welding, and AC on GTAW helps break it up."
+ },
+ {
+  "id": 357,
+  "domain": "welding_metallurgy",
+  "front": "Which common aluminum fillers are used and for what?",
+  "back": "ER4043 has silicon and resists cracking in 6061. ER5356 has magnesium and gives more strength on 5xxx alloys."
+ },
+ {
+  "id": 358,
+  "domain": "welding_metallurgy",
+  "front": "What is the carbon range and main weld problem of cast iron?",
+  "back": "Cast iron has about 2% to 4% carbon. It is brittle and cannot stretch to absorb shrinkage, so it cracks."
+ },
+ {
+  "id": 359,
+  "domain": "welding_metallurgy",
+  "front": "How is gray cast iron usually welded?",
+  "back": "Preheat, short beads with light peening, keep it warm between beads and cool slowly. Nickel base electrodes such as ENi-CI are common."
+ },
+ {
+  "id": 360,
+  "domain": "welding_metallurgy",
+  "front": "Why use ER309L for dissimilar welds and what is dilution?",
+  "back": "Dilution is base metal mixing into the weld pool. ER309L has extra chromium and nickel to handle dilution from carbon steel and avoid a brittle weld."
+ },
+ {
+  "id": 361,
+  "domain": "welding_inspection_and_testing",
+  "front": "What is VT in welding inspection?",
+  "back": "VT stands for visual testing, or visual inspection. It is the most used inspection method and costs almost nothing. Most codes require it before any other test."
+ },
+ {
+  "id": 362,
+  "domain": "welding_inspection_and_testing",
+  "front": "Name the three stages of visual inspection.",
+  "back": "Visual inspection is done before welding, during welding and after welding. Each stage checks different things, from fit-up to pass cleaning to final weld size and shape."
+ },
+ {
+  "id": 363,
+  "domain": "welding_inspection_and_testing",
+  "front": "What is checked in visual inspection before welding?",
+  "back": "The inspector checks base metal type, joint angle, root opening, fit-up, alignment and cleanliness. Filler metal and any required preheat are checked too."
+ },
+ {
+  "id": 364,
+  "domain": "welding_inspection_and_testing",
+  "front": "What is checked during welding?",
+  "back": "The inspector checks pass size, slag removal between passes, interpass temperature and pass sequence. Problems caught here are easy to fix before the next pass buries them."
+ },
+ {
+  "id": 365,
+  "domain": "welding_inspection_and_testing",
+  "front": "What is checked after welding?",
+  "back": "The inspector checks weld size, shape, length and surface discontinuities. Everything is compared with the acceptance rules in the code or contract."
+ },
+ {
+  "id": 366,
+  "domain": "welding_inspection_and_testing",
+  "front": "What does a fillet weld gauge measure?",
+  "back": "It measures the leg size of a fillet weld using steel leaves notched for set sizes. Some gauges also measure convexity and concavity."
+ },
+ {
+  "id": 367,
+  "domain": "welding_inspection_and_testing",
+  "front": "What does a bridge cam gauge read?",
+  "back": "It reads reinforcement height, root opening, bevel angle and undercut depth on groove welds. It is also called a Cambridge gauge."
+ },
+ {
+  "id": 368,
+  "domain": "welding_inspection_and_testing",
+  "front": "What does a Hi-Lo gauge check?",
+  "back": "It checks misalignment between two pieces, especially pipe ends. It shows whether the inside edges line up."
+ },
+ {
+  "id": 369,
+  "domain": "welding_inspection_and_testing",
+  "front": "How is the throat of an ideal equal-leg fillet found from its leg?",
+  "back": "Throat equals about 0.707 times the leg length. For a 3/8 inch leg the throat is 0.375 × 0.707, which is about 0.265 inch."
+ },
+ {
+  "id": 370,
+  "domain": "welding_inspection_and_testing",
+  "front": "Why is throat more important than leg in a fillet weld?",
+  "back": "Strength depends on the throat, the shortest distance from root to face. A bulging fillet can look large but still have a thin throat."
+ },
+ {
+  "id": 371,
+  "domain": "welding_inspection_and_testing",
+  "front": "Define discontinuity.",
+  "back": "A discontinuity is any interruption in the normal structure of a weld, such as a pore or slag bit. Having one does not by itself make a weld bad."
+ },
+ {
+  "id": 372,
+  "domain": "welding_inspection_and_testing",
+  "front": "Define defect.",
+  "back": "A defect is a discontinuity large enough, or of a harmful enough type, to fail the acceptance standard. A defect must be repaired or the weld rejected."
+ },
+ {
+  "id": 373,
+  "domain": "welding_inspection_and_testing",
+  "front": "Where should acceptance limits come from?",
+  "back": "They come from the governing code or contract, never from memory. Limits differ for a bridge, a pressure vessel and a handrail."
+ },
+ {
+  "id": 374,
+  "domain": "welding_inspection_and_testing",
+  "front": "What is porosity?",
+  "back": "Porosity is gas trapped in the weld metal as tiny holes. It may be scattered, clustered or lined up."
+ },
+ {
+  "id": 375,
+  "domain": "welding_inspection_and_testing",
+  "front": "What causes porosity?",
+  "back": "Common causes are dirty or damp base metal, damp electrodes, too little shielding gas, drafts, a clogged nozzle and a long arc."
+ },
+ {
+  "id": 376,
+  "domain": "welding_inspection_and_testing",
+  "front": "How is porosity cured?",
+  "back": "Clean the joint, keep electrodes dry, check gas flow and connections, block drafts and shorten the arc."
+ },
+ {
+  "id": 377,
+  "domain": "welding_inspection_and_testing",
+  "front": "What is a slag inclusion?",
+  "back": "It is slag trapped inside the weld. It occurs in stick, flux cored and submerged arc welding."
+ },
+ {
+  "id": 378,
+  "domain": "welding_inspection_and_testing",
+  "front": "How are slag inclusions prevented?",
+  "back": "Chip and brush every pass thoroughly, use proper current, and keep the bead flat enough that slag can float out."
+ },
+ {
+  "id": 379,
+  "domain": "welding_inspection_and_testing",
+  "front": "What is lack of fusion?",
+  "back": "Lack of fusion is weld metal that did not melt into the base metal or the previous bead. It can occur at a side wall, between passes or at the root."
+ },
+ {
+  "id": 380,
+  "domain": "welding_inspection_and_testing",
+  "front": "What causes lack of fusion?",
+  "back": "Too little heat, travel that is too fast, a wrong electrode angle, a dirty surface or weaving so wide that metal skips the side wall."
+ },
+ {
+  "id": 381,
+  "domain": "welding_inspection_and_testing",
+  "front": "What is incomplete joint penetration?",
+  "back": "The weld metal did not reach the full depth the joint required, often leaving the root unwelded."
+ },
+ {
+  "id": 382,
+  "domain": "welding_inspection_and_testing",
+  "front": "What causes incomplete joint penetration?",
+  "back": "A root opening that is too small, a root face that is too thick, low current, or an electrode too large to reach the root."
+ },
+ {
+  "id": 383,
+  "domain": "welding_inspection_and_testing",
+  "front": "What is undercut?",
+  "back": "Undercut is a groove melted into the base metal along the toe of the weld and left unfilled."
+ },
+ {
+  "id": 384,
+  "domain": "welding_inspection_and_testing",
+  "front": "What causes undercut?",
+  "back": "Current that is too high, a long arc, travel that is too fast and a poor electrode angle. Pausing at the sides when weaving helps cure it."
+ },
+ {
+  "id": 385,
+  "domain": "welding_inspection_and_testing",
+  "front": "What is overlap?",
+  "back": "Overlap, or cold lap, is weld metal that rolled over the base metal surface without fusing to it."
+ },
+ {
+  "id": 386,
+  "domain": "welding_inspection_and_testing",
+  "front": "What causes overlap?",
+  "back": "Travel that is too slow and current that is too low. Metal piles up and falls over the edge."
+ },
+ {
+  "id": 387,
+  "domain": "welding_inspection_and_testing",
+  "front": "Why are cracks the most serious discontinuity?",
+  "back": "Codes generally allow no cracks at all, and cracks can spread under load. A crack must be ground out completely, confirmed gone by testing, then rewelded."
+ },
+ {
+  "id": 388,
+  "domain": "welding_inspection_and_testing",
+  "front": "Name common causes of weld cracking.",
+  "back": "Hydrogen in the weld, high restraint, rapid cooling, high carbon or sulfur in the base metal, an undersized weld and an unfilled crater."
+ },
+ {
+  "id": 389,
+  "domain": "welding_inspection_and_testing",
+  "front": "What is a crater crack and how is it avoided?",
+  "back": "A crater crack starts in the crater at the end of a bead. Fill the crater before breaking the arc."
+ },
+ {
+  "id": 390,
+  "domain": "welding_inspection_and_testing",
+  "front": "What is an arc strike?",
+  "back": "An arc strike is a spot on the base metal where an arc was struck outside the weld joint. It can leave a hard, crack-prone spot, so many codes reject it."
+ },
+ {
+  "id": 391,
+  "domain": "welding_inspection_and_testing",
+  "front": "What is burn-through?",
+  "back": "Burn-through is a hole melted through the base metal. It is common on thin material when heat is too high."
+ },
+ {
+  "id": 392,
+  "domain": "welding_inspection_and_testing",
+  "front": "Why is excess reinforcement not extra strength?",
+  "back": "A weld face built up too high creates a stress concentration at the toes. It adds stress, not strength."
+ },
+ {
+  "id": 393,
+  "domain": "welding_inspection_and_testing",
+  "front": "What is the main limit of liquid penetrant testing?",
+  "back": "PT finds only flaws open to the surface. A subsurface flaw is not detected at all."
+ },
+ {
+  "id": 394,
+  "domain": "welding_inspection_and_testing",
+  "front": "List the steps of liquid penetrant testing.",
+  "back": "Clean and dry, apply penetrant, wait the dwell time, remove excess, apply developer, inspect, then clean the part."
+ },
+ {
+  "id": 395,
+  "domain": "welding_inspection_and_testing",
+  "front": "What is dwell time in PT?",
+  "back": "Dwell time is the period the penetrant needs to soak into flaws. It comes from the procedure and varies with material and temperature."
+ },
+ {
+  "id": 396,
+  "domain": "welding_inspection_and_testing",
+  "front": "What is the difference between visible and fluorescent penetrant?",
+  "back": "Visible penetrant is usually red and is seen in normal light. Fluorescent penetrant glows under ultraviolet light in a darkened area and is more sensitive."
+ },
+ {
+  "id": 397,
+  "domain": "welding_inspection_and_testing",
+  "front": "Which materials can PT test that MT cannot?",
+  "back": "PT works on any nonporous material, including stainless steel and aluminum. MT works on ferromagnetic metals only."
+ },
+ {
+  "id": 398,
+  "domain": "welding_inspection_and_testing",
+  "front": "Which metals can be tested by magnetic particle testing?",
+  "back": "Only ferromagnetic metals, those a magnet attracts, such as carbon steel and low alloy steel. Austenitic stainless and aluminum cannot be tested."
+ },
+ {
+  "id": 399,
+  "domain": "welding_inspection_and_testing",
+  "front": "How does MT reveal a flaw?",
+  "back": "A flaw interrupts the magnetic field and makes it leak out at the surface. Iron particles gather at the leak and outline the flaw."
+ },
+ {
+  "id": 400,
+  "domain": "welding_inspection_and_testing",
+  "front": "What flaw direction does MT find best?",
+  "back": "MT finds flaws best when they lie at a right angle to the magnetic field. A flaw parallel to the field barely disturbs it."
+ },
+ {
+  "id": 401,
+  "domain": "welding_inspection_and_testing",
+  "front": "Why is a part magnetized in two directions for MT?",
+  "back": "Flaws can run any way, and each field direction finds flaws across it. Using both directions covers more flaw orientations."
+ },
+ {
+  "id": 402,
+  "domain": "welding_inspection_and_testing",
+  "front": "What field does current passed through a part create?",
+  "back": "Passing current through the part or between prods creates a circular field around the current path. A coil creates a longitudinal field along the length."
+ },
+ {
+  "id": 403,
+  "domain": "welding_inspection_and_testing",
+  "front": "What is a yoke in MT?",
+  "back": "A yoke is a handheld electromagnet that puts a field between its two legs. It is the common tool for weld inspection."
+ },
+ {
+  "id": 404,
+  "domain": "welding_inspection_and_testing",
+  "front": "What does ultrasonic testing use to find flaws?",
+  "back": "UT uses very high frequency sound pulses sent by a transducer. Reflections from flaws or the back wall return and show distance on a screen."
+ },
+ {
+  "id": 405,
+  "domain": "welding_inspection_and_testing",
+  "front": "Why is couplant used in UT?",
+  "back": "Couplant is a gel between the probe and the metal. It lets sound pass because air blocks it."
+ },
+ {
+  "id": 406,
+  "domain": "welding_inspection_and_testing",
+  "front": "Which probe is normally used on welds in UT?",
+  "back": "An angle beam probe sending a shear wave at an angle, usually 45, 60 or 70 degrees. It reaches across the weld from the side."
+ },
+ {
+  "id": 407,
+  "domain": "welding_inspection_and_testing",
+  "front": "How is a UT instrument calibrated?",
+  "back": "It is calibrated on a reference block before use. The block lets the operator set the screen and check response."
+ },
+ {
+  "id": 408,
+  "domain": "welding_inspection_and_testing",
+  "front": "How does radiographic testing make a picture?",
+  "back": "A source sends radiation through the weld to film or a digital detector on the far side. Thicker areas look lighter and thinner areas look darker."
+ },
+ {
+  "id": 409,
+  "domain": "welding_inspection_and_testing",
+  "front": "What do common flaws look like on a radiograph?",
+  "back": "A pore is a dark round spot, slag is a dark irregular spot, and a crack is a thin dark line. Lack of fusion is usually a dark line along the weld edge."
+ },
+ {
+  "id": 410,
+  "domain": "welding_inspection_and_testing",
+  "front": "What sources are used in field radiography?",
+  "back": "An X-ray machine or a radioactive isotope, most often iridium-192 or cobalt-60. Only certified personnel perform RT."
+ },
+ {
+  "id": 411,
+  "domain": "welding_inspection_and_testing",
+  "front": "What is an image quality indicator?",
+  "back": "Also called a penetrameter, it is placed on the part during RT. If its required wire or hole shows on the film, the technique is sensitive enough."
+ },
+ {
+  "id": 412,
+  "domain": "welding_inspection_and_testing",
+  "front": "What three controls keep radiography safe?",
+  "back": "Limit time near the source, stay as far away as possible, and use shielding."
+ },
+ {
+  "id": 413,
+  "domain": "welding_inspection_and_testing",
+  "front": "What is the difference between surface and volumetric NDT methods?",
+  "back": "PT and MT are surface methods. UT and RT are volumetric because they look through the whole volume of the weld."
+ },
+ {
+  "id": 414,
+  "domain": "welding_inspection_and_testing",
+  "front": "Why is a guided bend test used?",
+  "back": "It checks soundness and ductility of a welder's test weld. The coupon is bent around a die into a U shape and the convex surface is examined."
+ },
+ {
+  "id": 415,
+  "domain": "welding_inspection_and_testing",
+  "front": "Compare face, root and side bends.",
+  "back": "A face bend puts the weld face on the outside of the curve, and a root bend puts the root there. A side bend puts the cut cross section outside and is used for thicker plate."
+ },
+ {
+  "id": 416,
+  "domain": "welding_inspection_and_testing",
+  "front": "How is tensile strength calculated?",
+  "back": "Divide the maximum load by the original cross section area. For example, 27,000 lb on 0.375 in² gives 72,000 psi."
+ },
+ {
+  "id": 417,
+  "domain": "welding_inspection_and_testing",
+  "front": "What does a fillet weld break test show?",
+  "back": "The fillet is forced to fail at its root, and the fracture is examined for fusion, penetration, porosity and slag."
+ },
+ {
+  "id": 418,
+  "domain": "welding_inspection_and_testing",
+  "front": "What does a macroetch test show?",
+  "back": "A cross section ground smooth and etched with acid shows passes, sidewall fusion, root penetration, heat affected zone, leg length and throat."
+ },
+ {
+  "id": 419,
+  "domain": "welding_inspection_and_testing",
+  "front": "What does the Charpy impact test measure?",
+  "back": "It measures toughness, the energy a notched bar absorbs when hit by a pendulum, in foot pounds. It is done at a stated temperature and used for procedure qualification."
+ },
+ {
+  "id": 420,
+  "domain": "welding_inspection_and_testing",
+  "front": "Why are test coupon corners rounded and reinforcement removed before a bend test?",
+  "back": "Reinforcement is ground flush and corners are rounded slightly so the edge does not start a crack. Grind marks across the specimen can look like cracks."
+ },
+ {
+  "id": 421,
+  "domain": "governing_documents_and_codes",
+  "front": "What is a code in welding?",
+  "back": "A code is a set of rules written to protect safety and quality for a certain kind of work. It becomes a legal or contract requirement when a government, owner, or contract says it applies. It says what must be done and what results are acceptable."
+ },
+ {
+  "id": 422,
+  "domain": "governing_documents_and_codes",
+  "front": "What is a standard?",
+  "back": "A standard is an agreed document that sets out requirements, test methods, sizes, or practices. Groups such as AWS, ASME, and API write many of them. A code is a standard that has been adopted as the rule for a certain job."
+ },
+ {
+  "id": 423,
+  "domain": "governing_documents_and_codes",
+  "front": "What is a specification in welding work?",
+  "back": "A specification describes the requirements for a particular material, product, or job. A filler metal specification, for example, sets the makeup and strength an electrode must have. It is about the thing being bought or made."
+ },
+ {
+  "id": 424,
+  "domain": "governing_documents_and_codes",
+  "front": "What is a procedure?",
+  "back": "A procedure is a step by step instruction for how to do something. The welding procedure specification turns the broad rules of a code into exact instructions for one weld. It tells the welder how to do the work."
+ },
+ {
+  "id": 425,
+  "domain": "governing_documents_and_codes",
+  "front": "A short way to separate code, specification, and procedure?",
+  "back": "The code says what must be true. The specification says what the material or job must be. The procedure says how to do the work."
+ },
+ {
+  "id": 426,
+  "domain": "governing_documents_and_codes",
+  "front": "What does AWS D1.1 cover?",
+  "back": "AWS D1.1 is the Structural Welding Code for steel. It covers welded steel structures such as building frames. It includes prequalified procedures, qualification of procedures and welders, fabrication, and inspection."
+ },
+ {
+  "id": 427,
+  "domain": "governing_documents_and_codes",
+  "front": "What does AWS D1.5 cover?",
+  "back": "AWS D1.5 is the Bridge Welding Code, used for welded highway bridges. Bridges carry moving loads that repeat many times, so the code pays close attention to fatigue and fracture critical members. It is stricter than a building code in several areas."
+ },
+ {
+  "id": 428,
+  "domain": "governing_documents_and_codes",
+  "front": "What is a fracture critical member?",
+  "back": "It is a bridge part whose failure could bring down the bridge or a large part of it. Codes such as AWS D1.5 set extra rules for welding these parts. The extra rules exist because a hidden flaw could grow under repeated loading."
+ },
+ {
+  "id": 429,
+  "domain": "governing_documents_and_codes",
+  "front": "What does API 1104 cover?",
+  "back": "API 1104 is the standard for welding pipelines and related facilities. It covers qualification of procedures and welders, production welding, and the standards for judging flaws found by inspection. Many pipeline welds are made with the pipe fixed in place."
+ },
+ {
+  "id": 430,
+  "domain": "governing_documents_and_codes",
+  "front": "What does ASME B31.3 cover?",
+  "back": "ASME B31.3 is the Process Piping code, used for piping in refineries, chemical plants, and similar facilities. It sets design, material, fabrication, examination, and testing rules. It points to ASME Section IX for welding qualification."
+ },
+ {
+  "id": 431,
+  "domain": "governing_documents_and_codes",
+  "front": "What does ASME Section IX cover?",
+  "back": "Section IX, Welding, Brazing, and Fusing Qualifications, is part of the ASME Boiler and Pressure Vessel Code. It tells how to qualify welding procedures and welders. It does not tell you how to build the vessel or piping."
+ },
+ {
+  "id": 432,
+  "domain": "governing_documents_and_codes",
+  "front": "What is a WPS?",
+  "back": "A welding procedure specification is the written instruction a welder follows. It lists items such as the process, base metal, joint, filler metal, shielding gas, preheat, position, and electrical settings. The welder works to it the way a cook works to a recipe."
+ },
+ {
+  "id": 433,
+  "domain": "governing_documents_and_codes",
+  "front": "What is a PQR?",
+  "back": "A procedure qualification record is the record of a test weld and its test results. It lists the actual values used and the results of tests such as bends and tensile tests. It proves that those settings can make a sound weld."
+ },
+ {
+  "id": 434,
+  "domain": "governing_documents_and_codes",
+  "front": "What is a WPQ?",
+  "back": "A welder performance qualification is the record that proves a particular welder can make a sound weld. The welder makes a test weld that is judged by visual inspection and bend tests or radiography. A pass qualifies the welder for the ranges listed on the record."
+ },
+ {
+  "id": 435,
+  "domain": "governing_documents_and_codes",
+  "front": "What is the difference between a PQR and a WPS?",
+  "back": "A PQR records what was actually done and tested on a test piece. A WPS is the instruction for production work, with working ranges based on the PQR. The PQR proves the procedure and the WPS applies it."
+ },
+ {
+  "id": 436,
+  "domain": "governing_documents_and_codes",
+  "front": "What does each document in the chain prove or do?",
+  "back": "The PQR proves the procedure works. The WPS tells people how to apply it. The WPQ proves the welder can follow it."
+ },
+ {
+  "id": 437,
+  "domain": "governing_documents_and_codes",
+  "front": "Does every WPS need its own PQR test?",
+  "back": "Under ASME Section IX, a WPS must be supported by a PQR. Under AWS D1.1, a WPS that stays within the strict limits of the prequalified section needs no PQR test. A WPS outside those limits must be qualified by testing."
+ },
+ {
+  "id": 438,
+  "domain": "governing_documents_and_codes",
+  "front": "What is an essential variable?",
+  "back": "An essential variable is a change that could affect the mechanical properties of the weld, such as strength or toughness. If it changes beyond the code limits, the procedure must be qualified again with a new test and PQR."
+ },
+ {
+  "id": 439,
+  "domain": "governing_documents_and_codes",
+  "front": "Give examples of changes that are often essential variables.",
+  "back": "Examples include changing the welding process, the base metal group, the filler metal classification, a large change in preheat, or going outside the tested thickness range. Check the code in use for the exact limits."
+ },
+ {
+  "id": 440,
+  "domain": "governing_documents_and_codes",
+  "front": "What is a nonessential variable?",
+  "back": "It is a change not expected to affect the mechanical properties of the weld. The WPS can be revised for such a change without a new test. The WPS document must still be updated to match."
+ },
+ {
+  "id": 441,
+  "domain": "governing_documents_and_codes",
+  "front": "What is a supplementary essential variable?",
+  "back": "It matters only when the code requires toughness testing, such as for low temperature service. When toughness is required, it acts like an essential variable. When toughness is not required, it is treated as nonessential."
+ },
+ {
+  "id": 442,
+  "domain": "governing_documents_and_codes",
+  "front": "What happens to a welder's qualification if they stop welding with a process for a long time?",
+  "back": "The qualification can lapse. The code states how long a gap is allowed, and the period differs between codes. Check the code in use for the exact time."
+ },
+ {
+  "id": 443,
+  "domain": "governing_documents_and_codes",
+  "front": "What do the letters G and F mean in a position name like 3G or 2F?",
+  "back": "G means a groove weld and F means a fillet weld. The number shows the position: 1 flat, 2 horizontal, 3 vertical, and 4 overhead."
+ },
+ {
+  "id": 444,
+  "domain": "governing_documents_and_codes",
+  "front": "What are the four plate groove positions?",
+  "back": "They are 1G flat, 2G horizontal, 3G vertical, and 4G overhead. Gravity affects the molten metal differently in each. The harder positions are overhead and vertical."
+ },
+ {
+  "id": 445,
+  "domain": "governing_documents_and_codes",
+  "front": "What is the 2G position on pipe?",
+  "back": "The pipe stands upright with its axis vertical, and the weld runs around it horizontally. The pipe is not turned during welding."
+ },
+ {
+  "id": 446,
+  "domain": "governing_documents_and_codes",
+  "front": "What is the 5G position on pipe?",
+  "back": "The pipe is fixed horizontal and cannot be turned. The welder works around it through the flat, vertical, and overhead areas."
+ },
+ {
+  "id": 447,
+  "domain": "governing_documents_and_codes",
+  "front": "What is the 6G position on pipe?",
+  "back": "The pipe is fixed at an angle of 45° to the horizontal and is not turned. It is a hard test because the welder must weld in all areas on one fixed joint."
+ },
+ {
+  "id": 448,
+  "domain": "governing_documents_and_codes",
+  "front": "Does qualifying in a harder position cover easier ones?",
+  "back": "Often it does, but the exact rule depends on the code and the joint type. Generally a pass in the vertical and overhead plate positions covers all plate positions. Always read the code tables rather than assuming."
+ },
+ {
+  "id": 449,
+  "domain": "governing_documents_and_codes",
+  "front": "What is the order of precedence in contract documents?",
+  "back": "It is the list in the contract that says which document wins when two documents disagree. Arrangements differ between contracts. Read the clause in your own contract and never guess."
+ },
+ {
+  "id": 450,
+  "domain": "governing_documents_and_codes",
+  "front": "What should be done if two contract documents conflict?",
+  "back": "Ask the responsible person, often through a written request for information, and wait for a written answer. Do not guess which document to follow. Guessing is how costly mistakes happen."
+ },
+ {
+  "id": 451,
+  "domain": "governing_documents_and_codes",
+  "front": "Which documents are usually part of the contract set for a welding job?",
+  "back": "They usually include the contract itself, the drawings, the project specifications, the referenced codes and standards, and changes such as addenda and change orders."
+ },
+ {
+  "id": 452,
+  "domain": "governing_documents_and_codes",
+  "front": "What are the main duties of a welder under the rules?",
+  "back": "The welder follows the WPS that applies, uses the correct materials and equipment, and welds only within the limits of the qualification held. The welder also cleans between passes, reports problems, and follows safety rules."
+ },
+ {
+  "id": 453,
+  "domain": "governing_documents_and_codes",
+  "front": "What are the main duties of a welding inspector?",
+  "back": "The inspector checks the documents, materials, welder qualifications, and the procedure in use. The inspector examines the work before, during, and after welding and reports whether it meets the code. The inspector does not weld the joint."
+ },
+ {
+  "id": 454,
+  "domain": "governing_documents_and_codes",
+  "front": "Who carries the overall duty to make welds meet the contract?",
+  "back": "The contractor or fabricator who employs the welder carries it. This includes qualifying procedures and welders, controlling the work, and repairing rejected welds. The owner may verify that the work meets the requirements."
+ },
+ {
+  "id": 455,
+  "domain": "governing_documents_and_codes",
+  "front": "What does SENSE stand for?",
+  "back": "SENSE stands for Schools Excelling through National Skills Education. It is an American Welding Society program that sets a national standard for welding education and training. This book prepares students for Level 1 and Level 2."
+ },
+ {
+  "id": 456,
+  "domain": "governing_documents_and_codes",
+  "front": "What are QC10 and QC11 in the SENSE program?",
+  "back": "They are numbers of AWS documents that support the entry level and advanced level qualification and certification work in the program. Know them as labels. Your instructor will say exactly which one applies to which level."
+ },
+ {
+  "id": 457,
+  "domain": "governing_documents_and_codes",
+  "front": "What does the SENSE Assessment Coordinator do?",
+  "back": "The Assessment Coordinator is a person at the school recognized by the program to manage testing. The coordinator makes sure exams and performance tests are given under the proper rules, records are kept, and results are reported correctly."
+ },
+ {
+  "id": 458,
+  "domain": "governing_documents_and_codes",
+  "front": "What score is needed to pass a SENSE module knowledge exam?",
+  "back": "A student needs at least 75 percent. On a 40 question exam, that is 0.75 × 40 = 30 correct answers. A lower score means the module exam is not passed."
+ },
+ {
+  "id": 459,
+  "domain": "governing_documents_and_codes",
+  "front": "What score is needed on the SENSE safety exam, and why?",
+  "back": "The safety exam requires 100 percent. A single safety mistake can injure or kill someone, so the program does not accept a safety score with wrong answers. A student who misses any question must study again and retake it."
+ },
+ {
+  "id": 460,
+  "domain": "governing_documents_and_codes",
+  "front": "What is a prequalified WPS?",
+  "back": "It is a WPS that meets the strict limits set out in the prequalified section of AWS D1.1, so no procedure test is needed. If any part falls outside those limits, the procedure must be qualified by testing and a PQR."
+ },
+ {
+  "id": 461,
+  "domain": "level_2_plate_and_pipe_welding",
+  "front": "What does the G in 1G, 2G, 3G and 4G stand for?",
+  "back": "G stands for groove weld. F would stand for fillet. The number is the welding position."
+ },
+ {
+  "id": 462,
+  "domain": "level_2_plate_and_pipe_welding",
+  "front": "Describe the 2G plate position.",
+  "back": "The plate stands upright and the weld runs sideways across it. This is the horizontal position."
+ },
+ {
+  "id": 463,
+  "domain": "level_2_plate_and_pipe_welding",
+  "front": "Describe the 3G plate position.",
+  "back": "The plate stands upright and the weld runs up or down. This is the vertical position."
+ },
+ {
+  "id": 464,
+  "domain": "level_2_plate_and_pipe_welding",
+  "front": "Describe the 4G plate position.",
+  "back": "The plate is above the welder and the weld is made from underneath. This is the overhead position."
+ },
+ {
+  "id": 465,
+  "domain": "level_2_plate_and_pipe_welding",
+  "front": "What is a groove angle (included angle)?",
+  "back": "It is the total angle between the two prepared edges of the joint. Two 30° bevels give a 60° groove angle."
+ },
+ {
+  "id": 466,
+  "domain": "level_2_plate_and_pipe_welding",
+  "front": "What is a root opening?",
+  "back": "It is the gap between the two pieces at the bottom of the joint. Its size comes from the WPS and is usually wider with backing than for open root."
+ },
+ {
+  "id": 467,
+  "domain": "level_2_plate_and_pipe_welding",
+  "front": "What is a root face (land)?",
+  "back": "It is the small flat, unbeveled strip at the bottom of a prepared edge. It helps control penetration and burn through."
+ },
+ {
+  "id": 468,
+  "domain": "level_2_plate_and_pipe_welding",
+  "front": "What is the purpose of backing on a groove weld?",
+  "back": "Backing is a bar tacked behind the joint to support the molten puddle. It makes burn through less likely and is easier to learn than open root."
+ },
+ {
+  "id": 469,
+  "domain": "level_2_plate_and_pipe_welding",
+  "front": "What is an open root joint?",
+  "back": "An open root joint has no backing behind it. The welder must fuse both edges and form the back bead with nothing to support the puddle."
+ },
+ {
+  "id": 470,
+  "domain": "level_2_plate_and_pipe_welding",
+  "front": "What does a test done with backing qualify for open root joints?",
+  "back": "A test done with backing does not qualify a welder for open root joints. A test done open root generally qualifies for backed joints, but confirm this in the code."
+ },
+ {
+  "id": 471,
+  "domain": "level_2_plate_and_pipe_welding",
+  "front": "What is a root pass?",
+  "back": "It is the first pass in the joint. It fuses the root and sets the shape of the back side, and later passes cannot repair a bad one."
+ },
+ {
+  "id": 472,
+  "domain": "level_2_plate_and_pipe_welding",
+  "front": "What is the job of the hot pass?",
+  "back": "The hot pass is run soon after the root pass at slightly higher current. It burns out slag traps and smooths the root bead edges for the next passes."
+ },
+ {
+  "id": 473,
+  "domain": "level_2_plate_and_pipe_welding",
+  "front": "What are fill passes and the cap pass?",
+  "back": "Fill passes build the joint up to nearly flush with the plate surface. The cap pass is the last layer and sets the final weld width and reinforcement."
+ },
+ {
+  "id": 474,
+  "domain": "level_2_plate_and_pipe_welding",
+  "front": "What is reinforcement on a groove weld?",
+  "back": "Reinforcement is extra weld metal standing above the plate surface. Codes limit it, a common limit being about 1/8 inch, but check the code or WPS."
+ },
+ {
+  "id": 475,
+  "domain": "level_2_plate_and_pipe_welding",
+  "front": "What is a keyhole in open root welding?",
+  "back": "A keyhole is a small round opening at the leading edge of the puddle where the arc has melted through the root face. A steady keyhole shows full penetration."
+ },
+ {
+  "id": 476,
+  "domain": "level_2_plate_and_pipe_welding",
+  "front": "What does a growing keyhole mean?",
+  "back": "A growing keyhole means the weld is about to burn through. The welder should speed up or lower the current."
+ },
+ {
+  "id": 477,
+  "domain": "level_2_plate_and_pipe_welding",
+  "front": "What does a closing keyhole mean?",
+  "back": "A closing keyhole means penetration is being lost. Incomplete joint penetration will follow unless the welder slows down or adds heat."
+ },
+ {
+  "id": 478,
+  "domain": "level_2_plate_and_pipe_welding",
+  "front": "What are the 1G, 2G, 5G and 6G pipe positions?",
+  "back": "1G is rolled horizontal pipe. 2G is vertical pipe with a horizontal weld. 5G is fixed horizontal pipe. 6G is fixed pipe at 45°."
+ },
+ {
+  "id": 479,
+  "domain": "level_2_plate_and_pipe_welding",
+  "front": "Why is the 5G pipe position difficult?",
+  "back": "The pipe is fixed horizontal and cannot be turned. The welder works through flat, vertical and overhead positions in one weld."
+ },
+ {
+  "id": 480,
+  "domain": "level_2_plate_and_pipe_welding",
+  "front": "What does a 6G pipe test qualify?",
+  "back": "In common AWS structural practice, 6G qualifies all positions on pipe and plate groove welding, within the thickness and diameter range tested. Confirm against your code."
+ },
+ {
+  "id": 481,
+  "domain": "level_2_plate_and_pipe_welding",
+  "front": "What does a 3G and 4G plate test qualify?",
+  "back": "In common AWS structural practice, passing 3G and 4G on plate qualifies all positions of groove and fillet welding on plate. Confirm against your code."
+ },
+ {
+  "id": 482,
+  "domain": "level_2_plate_and_pipe_welding",
+  "front": "Does a SMAW test qualify a welder for GMAW?",
+  "back": "No. Changing the welding process requires a new test."
+ },
+ {
+  "id": 483,
+  "domain": "level_2_plate_and_pipe_welding",
+  "front": "What is the E6010 electrode used for?",
+  "back": "E6010 is a deep penetrating electrode run on direct current electrode positive. It is a standard choice for open root passes on pipe."
+ },
+ {
+  "id": 484,
+  "domain": "level_2_plate_and_pipe_welding",
+  "front": "What is the E7018 electrode used for?",
+  "back": "E7018 is a low hydrogen electrode used for fill and cap passes. It gives smooth, strong, ductile welds."
+ },
+ {
+  "id": 485,
+  "domain": "level_2_plate_and_pipe_welding",
+  "front": "Why is E7018 stored in a heated rod oven?",
+  "back": "Low hydrogen electrodes absorb moisture. Moisture puts hydrogen into the weld and can cause cracking, so oven temperature and time limits must be followed."
+ },
+ {
+  "id": 486,
+  "domain": "level_2_plate_and_pipe_welding",
+  "front": "What does the 70 in E7018 mean?",
+  "back": "It means the weld metal has a tensile strength of 70 ksi, or 70,000 pounds per square inch."
+ },
+ {
+  "id": 487,
+  "domain": "level_2_plate_and_pipe_welding",
+  "front": "What does the T in E71T-1 mean?",
+  "back": "T means tubular, so the wire is a flux cored wire. E71T-1 is a gas shielded wire that works in all positions."
+ },
+ {
+  "id": 488,
+  "domain": "level_2_plate_and_pipe_welding",
+  "front": "What shielding gas is common for GMAW on steel?",
+  "back": "A mix of 75 percent argon and 25 percent carbon dioxide is common. Always follow the WPS."
+ },
+ {
+  "id": 489,
+  "domain": "level_2_plate_and_pipe_welding",
+  "front": "Which GMAW transfer mode suits out of position welding?",
+  "back": "Short circuit transfer suits out of position welding and thin metal because it runs at low heat. Spray transfer works only in flat and horizontal."
+ },
+ {
+  "id": 490,
+  "domain": "level_2_plate_and_pipe_welding",
+  "front": "What is the difference between gas shielded and self shielded FCAW?",
+  "back": "Gas shielded flux cored wire needs outside shielding gas. Self shielded wire makes its own shielding from the flux in the core."
+ },
+ {
+  "id": 491,
+  "domain": "level_2_plate_and_pipe_welding",
+  "front": "What shielding gas does GTAW use?",
+  "back": "GTAW uses argon. The tungsten electrode does not melt and the filler rod is added by hand."
+ },
+ {
+  "id": 492,
+  "domain": "level_2_plate_and_pipe_welding",
+  "front": "What is a purge in pipe welding?",
+  "back": "A purge is argon fed inside the pipe so the back of the root weld sits in inert gas. It is used on metals such as stainless steel."
+ },
+ {
+  "id": 493,
+  "domain": "level_2_plate_and_pipe_welding",
+  "front": "What is sugaring?",
+  "back": "Sugaring is a gray, crusty oxidized surface on the back of a root weld caused by a poor purge."
+ },
+ {
+  "id": 494,
+  "domain": "level_2_plate_and_pipe_welding",
+  "front": "What is a guided bend test?",
+  "back": "A strip cut from the weld is bent into a U shape around a plunger. The convex outer surface is then checked for open discontinuities."
+ },
+ {
+  "id": 495,
+  "domain": "level_2_plate_and_pipe_welding",
+  "front": "What is the difference between a face bend, root bend and side bend?",
+  "back": "A face bend puts the weld face on the outside of the curve and a root bend puts the root there. A side bend stretches the full weld thickness and is used on thicker material."
+ },
+ {
+  "id": 496,
+  "domain": "level_2_plate_and_pipe_welding",
+  "front": "What plunger diameter is common for a 3/8 inch bend specimen?",
+  "back": "A common rule is 4 times the thickness, so 4 × 3/8 = 1.5 inches. Confirm in the code."
+ },
+ {
+  "id": 497,
+  "domain": "level_2_plate_and_pipe_welding",
+  "front": "What is a common bend test limit on a single discontinuity?",
+  "back": "In common AWS structural practice, no single discontinuity on the convex surface may exceed 1/8 inch in any direction. Confirm in your code."
+ },
+ {
+  "id": 498,
+  "domain": "level_2_plate_and_pipe_welding",
+  "front": "What is a common limit on the sum of discontinuities in a bend test?",
+  "back": "In common AWS structural practice, the sum of discontinuities over 1/32 inch and up to 1/8 inch may not exceed 3/8 inch. Confirm in your code."
+ },
+ {
+  "id": 499,
+  "domain": "level_2_plate_and_pipe_welding",
+  "front": "How is heat input calculated?",
+  "back": "Heat input in kJ per inch equals volts × amps × 60 ÷ (travel speed in inches per minute × 1,000). At 22 V, 100 A and 8 in/min it is 16.5 kJ/in."
+ },
+ {
+  "id": 500,
+  "domain": "level_2_plate_and_pipe_welding",
+  "front": "What is the SENSE Level 2 module structure?",
+  "back": "Level 2 has five compulsory modules plus optional plate, pipe and fabrication modules. The knowledge exam pass mark is 75 percent, except Level 1 safety which needs 100 percent."
+ }
+]
